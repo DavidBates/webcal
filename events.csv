@@ -1,0 +1,694 @@
+web-scraper-order,web-scraper-start-url,title,date,time,type,inPerson,link
+1684188221-1,https://build.microsoft.com/en-US/sessions,2023 Imagine Cup World Championship,"Tuesday, May 23
+11:43 AM - 11:57 AM Eastern Daylight Time",11:43 AM - 11:57 AM Eastern Daylight Time,Interview,DigitalIn-Person,/en-US/sessions/e1a04275-7abd-4d9a-907a-8899b685e40e?source=sessions
+1684188221-2,https://build.microsoft.com/en-US/sessions,Microsoft Build opening,"Tuesday, May 23
+12:00 PM - 12:15 PM Eastern Daylight Time",12:00 PM - 12:15 PM Eastern Daylight Time,Keynote,DigitalIn-Person,/en-US/sessions/49e81029-20f0-485b-b641-73b7f9622656?source=sessions
+1684188221-3,https://build.microsoft.com/en-US/sessions,The era of the AI Copilot,"Tuesday, May 23
+12:15 PM - 1:00 PM Eastern Daylight Time",12:15 PM - 1:00 PM Eastern Daylight Time,Keynote,DigitalIn-Person,/en-US/sessions/bb8f9d99-0c47-404f-8212-a85fffd3a59d?source=sessions
+1684188221-4,https://build.microsoft.com/en-US/sessions,Next generation AI for developers with the Microsoft Cloud,"Tuesday, May 23
+1:00 PM - 2:00 PM Eastern Daylight Time",1:00 PM - 2:00 PM Eastern Daylight Time,Keynote,DigitalIn-Person,/en-US/sessions/b1445158-aff5-44e8-b336-e1550770f028?source=sessions
+1684188221-5,https://build.microsoft.com/en-US/sessions,Cloud-native development with .NET 8,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/92aa8923-2720-49a4-81a3-d117f08488fe?source=sessions
+1684188221-6,https://build.microsoft.com/en-US/sessions,Getting started with generative AI using Azure OpenAI Service,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/27c0f55d-9c02-4003-bfb3-7e077a12fea2?source=sessions
+1684188221-7,https://build.microsoft.com/en-US/sessions,How to build next-gen AI services with NVIDIA AI on Azure Cloud,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,Digital,/en-US/sessions/333590ed-ccbe-4358-a862-27c76fe8105e?source=sessions
+1684188221-8,https://build.microsoft.com/en-US/sessions,Inject the power of the cloud and AI into your development workflow,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/01f6a7ae-d371-43d5-9e6c-9ed2cf853d94?source=sessions
+1684188221-9,https://build.microsoft.com/en-US/sessions,Secure and observe your APIs no matter where they run,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/d07b6555-129a-478f-9c4f-ff2f5260557b?source=sessions
+1684188221-10,https://build.microsoft.com/en-US/sessions,Securing container deployments on Azure Kubernetes Service with open-source tools,"Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/0301c5a0-34cb-4a5b-ac0f-164b2d4191fa?source=sessions
+1684188221-11,https://build.microsoft.com/en-US/sessions,"Achieve more with Azure PaaS: Azure App Service product experts, Q&A","Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/0eca91c3-f7f4-477e-ba6a-d7d0e9b4b95d?source=sessions
+1684188221-12,https://build.microsoft.com/en-US/sessions,"Build scalable and secure enterprise apps on OSS databases, Q&A","Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/6a8c5273-b43f-4867-adfc-aef849633214?source=sessions
+1684188221-13,https://build.microsoft.com/en-US/sessions,"LEADTOOLS Low-Code Document Viewer, Editor and Medical Viewer Controls","Tuesday, May 23
+2:30 PM - 2:45 PM Eastern Daylight Time",2:30 PM - 2:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/71a61019-ea68-4d64-9c96-6efaea36357a?source=sessions
+1684188221-14,https://build.microsoft.com/en-US/sessions,Learn Live: Build a bot and Teams tab app with Teams Toolkit for Visual Studio Code,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time",2:30 PM - 3:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/2d0bc66d-0c6b-4afe-956c-77df6988241f?source=sessions
+1684188221-15,https://build.microsoft.com/en-US/sessions,"News from around Microsoft Graph, Q&A","Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/96701d41-44e4-40ea-a04e-5d5732705e6c?source=sessions
+1684188221-16,https://build.microsoft.com/en-US/sessions,"Qualcomm Technologies and the power of Windows AI, Q&A","Tuesday, May 23
+2:30 PM - 3:15 PM Eastern Daylight Time",2:30 PM - 3:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/7f2b3618-36d1-4514-a7bf-78f655bcd7ab?source=sessions
+1684188221-17,https://build.microsoft.com/en-US/sessions,State of the Art Data Retrieval with Machine Learning & Elasticsearch,"Tuesday, May 23
+2:30 PM - 3:00 PM Eastern Daylight Time",2:30 PM - 3:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/4798a437-8a14-40b9-88b6-b165e0916e1e?source=sessions
+1684188221-18,https://build.microsoft.com/en-US/sessions,Deploy a Teams app to Azure using Microsoft Teams Toolkit for VS Code,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/83150524-082e-48fb-8a3d-025bbefb7b4b?source=sessions
+1684188221-19,https://build.microsoft.com/en-US/sessions,Interactive tutorial: Automated cloud application testing,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/f89af536-4aca-47a3-be89-7109cb5ee89b?source=sessions
+1684188221-20,https://build.microsoft.com/en-US/sessions,Progressive Web Apps for beginners,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/e9d400c5-cb64-4ba2-a949-72258436190f?source=sessions
+1684188221-21,https://build.microsoft.com/en-US/sessions,Taking Azure Kubernetes Service out of the cloud and into your world,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/f279ef86-024e-4747-a3b9-a1f357b0d480?source=sessions
+1684188221-22,https://build.microsoft.com/en-US/sessions,CI/CD for the enterprise with GitHub Actions,"Tuesday, May 23
+2:30 PM - 2:45 PM Eastern Daylight Time",2:30 PM - 2:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/cd278f6c-9405-464e-9fe3-4d7f53bc18b8?source=sessions
+1684188221-23,https://build.microsoft.com/en-US/sessions,Modernize MongoDB workloads with Azure Cosmos DB,"Tuesday, May 23
+2:30 PM - 2:45 PM Eastern Daylight Time",2:30 PM - 2:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/7e40508e-e8bc-4541-bf36-9828230b6e5d?source=sessions
+1684188221-24,https://build.microsoft.com/en-US/sessions,Kusto detective agency Q&A,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/b8f31978-65d1-4999-8ab8-d745a912510d?source=sessions
+1684188221-25,https://build.microsoft.com/en-US/sessions,Modernizing high volume customer communications platforms,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/83f1fe5b-b4d7-4807-966d-de2b843ddb32?source=sessions
+1684188221-26,https://build.microsoft.com/en-US/sessions,Native Authentication for Customer-Facing Applications,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/38005b5e-bec6-4237-96e0-313ffe9d9bc7?source=sessions
+1684188221-27,https://build.microsoft.com/en-US/sessions,The future of edge solutions in manufacturing,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/3b72fb71-8cc2-4f7c-b1a9-7dcd0e7ca238?source=sessions
+1684188221-28,https://build.microsoft.com/en-US/sessions,Windows Hybrid Apps - Developing for the cloud-first future,"Tuesday, May 23
+2:30 PM - 3:30 PM Eastern Daylight Time
+Limited space",2:30 PM - 3:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/29c9018d-5479-44fe-afac-fe1c05c6df56?source=sessions
+1684188221-29,https://build.microsoft.com/en-US/sessions,Build next gen intelligent retail with Azure OpenAI & Azure Cosmos DB,"Tuesday, May 23
+2:45 PM - 3:00 PM Eastern Daylight Time",2:45 PM - 3:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/8e5f1b28-175d-4353-b6f1-7521a448ac90?source=sessions
+1684188221-30,https://build.microsoft.com/en-US/sessions,Secure your app using Azure Redis Cache with Azure AD AuthN and AuthZ,"Tuesday, May 23
+2:45 PM - 3:00 PM Eastern Daylight Time",2:45 PM - 3:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/c52fc8c3-171c-4b00-9be9-50da8f96a627?source=sessions
+1684188221-31,https://build.microsoft.com/en-US/sessions,Build the next big thing with MongoDB Atlas on Microsoft Azure,"Tuesday, May 23
+3:00 PM - 3:15 PM Eastern Daylight Time",3:00 PM - 3:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/a77c16da-a317-40bc-be20-5d2e39f02bdc?source=sessions
+1684188221-32,https://build.microsoft.com/en-US/sessions,"Synthetic monitoring optimized for developers, GitOps, and DevOps","Tuesday, May 23
+3:00 PM - 3:15 PM Eastern Daylight Time",3:00 PM - 3:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/1e0c7076-4ea3-4768-be02-a2e1eb7943f6?source=sessions
+1684188221-33,https://build.microsoft.com/en-US/sessions,".NET languages, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/d17eb062-58dc-4b08-a798-21974061e890?source=sessions
+1684188221-34,https://build.microsoft.com/en-US/sessions,"Azure Kubernetes Service: Past, present, and future, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/0d30150b-e4bf-420b-a664-67d79a88fa03?source=sessions
+1684188221-35,https://build.microsoft.com/en-US/sessions,"Build, Customize, and Deploy LLMs At-Scale on Azure with NVIDIA NeMo","Tuesday, May 23
+3:30 PM - 4:00 PM Eastern Daylight Time",3:30 PM - 4:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/ddd2f9c9-9bde-47da-85f1-8328100cc65b?source=sessions
+1684188221-36,https://build.microsoft.com/en-US/sessions,"Database capabilities you need for your next awesome app, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/94372ded-9820-4deb-afcf-0a4be8e0692f?source=sessions
+1684188221-37,https://build.microsoft.com/en-US/sessions,"Developer career tools: Saying NO to improve mental health, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/58c48af9-bf0e-4b87-90d4-b47d6940d95e?source=sessions
+1684188221-38,https://build.microsoft.com/en-US/sessions,GenAI for Knowledge: transform search of unstructured data with personality,"Tuesday, May 23
+3:30 PM - 3:45 PM Eastern Daylight Time",3:30 PM - 3:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/212ea181-17fe-49b8-81d6-83ede8933a44?source=sessions
+1684188221-39,https://build.microsoft.com/en-US/sessions,"GitHub Advanced Security for Azure DevOps: Interactive deep dive, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/18a3ec79-476b-4bd6-b98d-2216e190b187?source=sessions
+1684188221-40,https://build.microsoft.com/en-US/sessions,Learn Live: Introduction to Azure Arc-enabled Kubernetes,"Tuesday, May 23
+3:30 PM - 4:30 PM Eastern Daylight Time",3:30 PM - 4:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/4c1494ae-ec18-48db-b7f7-e21889a6da0f?source=sessions
+1684188221-41,https://build.microsoft.com/en-US/sessions,"Meet the Microsoft Store client team, Q&A","Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/3e4ea095-fe0d-4b39-97b6-05184954f85e?source=sessions
+1684188221-42,https://build.microsoft.com/en-US/sessions,The present and future of AI development: leading innovators Q&A,"Tuesday, May 23
+3:30 PM - 4:15 PM Eastern Daylight Time",3:30 PM - 4:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/8ea2b96d-b286-4c34-84d6-5afda96db804?source=sessions
+1684188221-43,https://build.microsoft.com/en-US/sessions,Intune support for .NET MAUI on Android,"Tuesday, May 23
+3:30 PM - 4:30 PM Eastern Daylight Time
+Limited space",3:30 PM - 4:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/f38d6830-97e3-4d21-8f07-214b682bdaa3?source=sessions
+1684188221-44,https://build.microsoft.com/en-US/sessions,Optimizing Azure Cosmos DB: Strategies for cost efficiency and elasticity,"Tuesday, May 23
+3:30 PM - 4:30 PM Eastern Daylight Time
+Limited space",3:30 PM - 4:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/3a0d9f25-ecf3-48db-aba9-833c481d5a93?source=sessions
+1684188221-45,https://build.microsoft.com/en-US/sessions,Using Azure to improve your organization’s sustainability posture,"Tuesday, May 23
+3:30 PM - 4:30 PM Eastern Daylight Time
+Limited space",3:30 PM - 4:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/db1e6353-664c-45ff-9ea7-30ee4ff6e5fa?source=sessions
+1684188221-46,https://build.microsoft.com/en-US/sessions,Build and maintain your company Copilot with Azure ML and GPT-4,"Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/abe8f7cd-5aa1-4ee6-bb0d-f1aff17ba3c8?source=sessions
+1684188221-47,https://build.microsoft.com/en-US/sessions,"Building and scaling cloud-native, intelligent applications on Azure","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/8e651f72-eb45-4229-9eee-5eb97a4bb293?source=sessions
+1684188221-48,https://build.microsoft.com/en-US/sessions,Develop in the cloud with Microsoft Dev Box,"Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/39061c2a-856d-4412-94fa-ffde1e418d6d?source=sessions
+1684188221-49,https://build.microsoft.com/en-US/sessions,"Open, diverse solutions for global AI adoption","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/ed8da978-ac27-4a0d-8974-82f15f429231?source=sessions
+1684188221-50,https://build.microsoft.com/en-US/sessions,"What's new in .NET 8 for Web, frontends, backends, and futures?","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/da223f08-abb2-4f38-87de-0856ffa22317?source=sessions
+1684188221-51,https://build.microsoft.com/en-US/sessions,"AI for content: How Microsoft Learn is leveraging generative models, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/c07320fe-a309-43fd-8af3-25fa3bdb1cfb?source=sessions
+1684188221-52,https://build.microsoft.com/en-US/sessions,Automated compliance testing tools for Microsoft 365 apps,"Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/7ca6439b-2b4d-4a41-b5bf-73c67177fb34?source=sessions
+1684188221-53,https://build.microsoft.com/en-US/sessions,"Azure Cosmos DB for MongoDB: Choosing the right architecture, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/d0f2d888-a79d-42f9-a062-f9c334daca9f?source=sessions
+1684188221-54,https://build.microsoft.com/en-US/sessions,"CBL-Mariner: A container host OS for Azure Kubernetes Service, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/e84dd80a-f3bb-4d3d-978e-ffd811e3bfe1?source=sessions
+1684188221-55,https://build.microsoft.com/en-US/sessions,How leading AI companies 10x experimentation velocity with Statsig,"Tuesday, May 23
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/c3d2c385-58db-49c8-9575-299b7b6b7683?source=sessions
+1684188221-56,https://build.microsoft.com/en-US/sessions,Learn Live: Model data for Azure Cosmos DB for PostgreSQL,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time",4:30 PM - 5:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/8036fabb-00b1-4fcf-bb61-6f2cc45c4008?source=sessions
+1684188221-57,https://build.microsoft.com/en-US/sessions,Native apps for Windows on Snapdragon® compute platforms,"Tuesday, May 23
+4:30 PM - 5:00 PM Eastern Daylight Time",4:30 PM - 5:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/b5ff282c-6503-460a-8b03-ef652e3ef068?source=sessions
+1684188221-58,https://build.microsoft.com/en-US/sessions,"Optimize your apps for Arm, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/4a5f9357-7e15-4a5f-ac33-3a5bae88684c?source=sessions
+1684188221-59,https://build.microsoft.com/en-US/sessions,"Unlocking the Power of Azure Security: Conversations with Experts, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/6da00f4d-58a8-449e-9f00-cffb5c943bd2?source=sessions
+1684188221-60,https://build.microsoft.com/en-US/sessions,"What's new in TypeScript, Q&A","Tuesday, May 23
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/7fc31196-9b3a-4baa-aa2a-c6eabd9a9fe4?source=sessions
+1684188221-61,https://build.microsoft.com/en-US/sessions,"Build flexible, intelligent apps with OSS on Microsoft Azure and GitHub Copilot","Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/0da2f92e-993a-46f7-b0f1-4fa39b0e0010?source=sessions
+1684188221-62,https://build.microsoft.com/en-US/sessions,Skill up with Microsoft Power Platform and GitHub,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/6d2c85fe-7a40-404b-96da-0456169000e8?source=sessions
+1684188221-63,https://build.microsoft.com/en-US/sessions,Supercharge your data retrieval and validation with ChatGPT,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/59eb2e8e-99d4-40b2-9e1e-c9474ef18a70?source=sessions
+1684188221-64,https://build.microsoft.com/en-US/sessions,The ins and outs of securing your APIs,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/7f68daa8-0d99-4a66-a4e2-968b5c0042f5?source=sessions
+1684188221-65,https://build.microsoft.com/en-US/sessions,Bring next-gen translation & language capabilities into your AI apps,"Tuesday, May 23
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/fe96907e-7d8d-4692-a9d7-65edb5189da0?source=sessions
+1684188221-66,https://build.microsoft.com/en-US/sessions,Upgrade your .NET projects with Visual Studio,"Tuesday, May 23
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/67be8509-042c-4440-8c31-12d2b3f31304?source=sessions
+1684188221-67,https://build.microsoft.com/en-US/sessions,Azure Synapse Data Explorer and Delta Lake Integration,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/c22cf799-21f6-4eac-a059-af75b7c4f2a8?source=sessions
+1684188221-68,https://build.microsoft.com/en-US/sessions,External Identities in Microsoft Entra: the future of creative brand experiences!,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/969abe22-890e-4441-a478-be54b44f6295?source=sessions
+1684188221-69,https://build.microsoft.com/en-US/sessions,Let's talk about running your apps anywhere with Azure Arc,"Tuesday, May 23
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/b8eb60bb-7c9f-450e-9581-0e3c4b96b38c?source=sessions
+1684188221-70,https://build.microsoft.com/en-US/sessions,Fine-tune and deploy foundation models with Azure Machine Learning,"Tuesday, May 23
+4:45 PM - 5:00 PM Eastern Daylight Time",4:45 PM - 5:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/082f48f5-c70c-4b24-bc6c-d6f67c45ebf6?source=sessions
+1684188221-71,https://build.microsoft.com/en-US/sessions,Upgrading from Xamarin to .NET MAUI,"Tuesday, May 23
+4:45 PM - 5:00 PM Eastern Daylight Time",4:45 PM - 5:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/4d6bc6e9-716a-4125-9a03-81853375a9f5?source=sessions
+1684188221-72,https://build.microsoft.com/en-US/sessions,"Control a 3D printed robot with .NET, Raspberry Pi, SignalR, Blazor and Oculus Quest","Tuesday, May 23
+5:00 PM - 5:15 PM Eastern Daylight Time",5:00 PM - 5:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/49f44963-065c-4439-9196-aab85e13c65a?source=sessions
+1684188221-73,https://build.microsoft.com/en-US/sessions,"Create a Document Viewer using LEADTOOLS AI-Driven, Low-Code Controls","Tuesday, May 23
+5:00 PM - 5:15 PM Eastern Daylight Time",5:00 PM - 5:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/2b0cc4ed-e0b7-4eb4-849e-616c319b9f7c?source=sessions
+1684188221-74,https://build.microsoft.com/en-US/sessions,Accelerate development with Visual Studio and Microsoft Power Platform,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/a2154a8a-57fe-4717-af9a-bea7ec2b5e94?source=sessions
+1684188221-75,https://build.microsoft.com/en-US/sessions,Self-serve app infrastructure using Azure Deployment Environments,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/e102bb71-f8ef-4538-9a59-158ec6f442b6?source=sessions
+1684188221-76,https://build.microsoft.com/en-US/sessions,Ship-It safely with GitHub Advanced Security,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/d9f50f96-5c71-479a-bb63-a46ff7489a7b?source=sessions
+1684188221-77,https://build.microsoft.com/en-US/sessions,What’s new in C# 12 and beyond,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/7bdbc522-10ed-4114-a0f1-afd45acbf7ee?source=sessions
+1684188221-78,https://build.microsoft.com/en-US/sessions,Building the supercomputer to unleash AI innovation at cloud scale,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/74655a25-2b5f-41fe-ac01-bddaf4dd87a3?source=sessions
+1684188221-79,https://build.microsoft.com/en-US/sessions,Get full-stack visibility into your Azure environment in minutes,"Tuesday, May 23
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/e0aba785-98b6-4645-90c4-d6ba41fc7296?source=sessions
+1684188221-80,https://build.microsoft.com/en-US/sessions,HTTP Load Balancing with NGINXaaS for Azure – Azure Native ISV Service,"Tuesday, May 23
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/081b9a33-a5b5-456c-8e0d-1707e30fea16?source=sessions
+1684188221-81,https://build.microsoft.com/en-US/sessions,Learn Live: Customize the command bar in Microsoft Power Apps,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time",5:45 PM - 6:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/0040f3da-4903-44fd-bb5a-283eb9653b27?source=sessions
+1684188221-82,https://build.microsoft.com/en-US/sessions,"Modernize your applications on Azure SQL Managed Instance, Q&A","Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/9ac9e7cd-e615-4a72-afc0-ac01f957c91e?source=sessions
+1684188221-83,https://build.microsoft.com/en-US/sessions,OpenFL (Federated Learning) Building better AI models with private data,"Tuesday, May 23
+5:45 PM - 6:15 PM Eastern Daylight Time",5:45 PM - 6:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/be9e0990-58f4-4924-b44b-2a29e09eb36a?source=sessions
+1684188221-84,https://build.microsoft.com/en-US/sessions,"Take your .NET apps to the cloud with Microsoft Azure, Q&A","Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/1762d05a-a8de-42c3-8097-218a4a30e69f?source=sessions
+1684188221-85,https://build.microsoft.com/en-US/sessions,"The Old New Thing with Raymond Chen, Q&A","Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/5b177ba5-b7f8-4346-a61e-974a63aaa63e?source=sessions
+1684188221-86,https://build.microsoft.com/en-US/sessions,Engineering reliable AI systems at scale,"Tuesday, May 23
+5:45 PM - 6:30 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/d9af0a09-9967-47d2-b77d-7f283b149758?source=sessions
+1684188221-87,https://build.microsoft.com/en-US/sessions,Build foundation models using Azure Container for PyTorch and Azure ML,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/60011754-eaff-4208-b974-79c8dc08d6d2?source=sessions
+1684188221-88,https://build.microsoft.com/en-US/sessions,Deploy a Quarkus application to Azure Container Apps,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/4cd4a84d-014c-4f27-89f5-9a3252f85009?source=sessions
+1684188221-89,https://build.microsoft.com/en-US/sessions,From web services to Teams apps using Teams Toolkit v5.0,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/e5152be8-46ae-4b51-8c18-6b01416cb261?source=sessions
+1684188221-90,https://build.microsoft.com/en-US/sessions,Modernize with .NET on Azure App Service,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/512932f1-141a-4bc9-a6d4-7723959f6a49?source=sessions
+1684188221-91,https://build.microsoft.com/en-US/sessions,Automatic scaling for Azure App Service web apps,"Tuesday, May 23
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/84f431f8-cfa8-421e-90cb-23c20b684c93?source=sessions
+1684188221-92,https://build.microsoft.com/en-US/sessions,Five tips to increase your productivity in Visual Studio,"Tuesday, May 23
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/8246f50f-0269-46aa-b6bc-09d5e5e10ace?source=sessions
+1684188221-93,https://build.microsoft.com/en-US/sessions,Build IoT solutions with MQTT in Azure Event Grid,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/7b3a0fb2-45f4-43e0-ae43-32e33fee6ca3?source=sessions
+1684188221-94,https://build.microsoft.com/en-US/sessions,What's next for Azure landing zones?,"Tuesday, May 23
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/59a26c47-912a-4a68-9c80-73d0e6255a43?source=sessions
+1684188221-95,https://build.microsoft.com/en-US/sessions,Build Intelligent Microservices with Azure Container Apps,"Tuesday, May 23
+6:00 PM - 6:15 PM Eastern Daylight Time",6:00 PM - 6:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/9483298a-93f9-4bbc-a9ea-1bfe986c6e4b?source=sessions
+1684188221-96,https://build.microsoft.com/en-US/sessions,Securely test and debug your web apps and webhooks with Dev Tunnels,"Tuesday, May 23
+6:00 PM - 6:15 PM Eastern Daylight Time",6:00 PM - 6:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/23cd75b9-a256-446c-aace-4dd2405be944?source=sessions
+1684188221-97,https://build.microsoft.com/en-US/sessions,Adobe + Microsoft: Modern Productivity,"Tuesday, May 23
+6:15 PM - 6:30 PM Eastern Daylight Time",6:15 PM - 6:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/7d3c95a0-636b-4ea5-94e2-3245096743fb?source=sessions
+1684188221-98,https://build.microsoft.com/en-US/sessions,My Security Device does Automation?,"Tuesday, May 23
+6:15 PM - 6:30 PM Eastern Daylight Time",6:15 PM - 6:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/a20fce23-bb1a-495c-8e2a-769178820563?source=sessions
+1684188221-99,https://build.microsoft.com/en-US/sessions,AMD + Azure: Outstanding performance and the latest security features,"Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/817a8741-2366-4d4d-9939-2289943cbc1f?source=sessions
+1684188221-100,https://build.microsoft.com/en-US/sessions,Analytics in the Age of AI,"Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/852ccf38-b07d-4ddc-a9fe-2e57bdaeb613?source=sessions
+1684188221-101,https://build.microsoft.com/en-US/sessions,Building and using AI models responsibly,"Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/70c6d334-0e4a-4235-ad57-92004b06d7e7?source=sessions
+1684188221-102,https://build.microsoft.com/en-US/sessions,"Focus on code, not infra with Azure Functions, Azure Spring Apps, Dapr","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/90dfa6e3-9f6e-4f8d-8d3c-814b4311cc70?source=sessions
+1684188221-103,https://build.microsoft.com/en-US/sessions,"Application reliability with Azure Load Testing and Chaos Studio, Q&A","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/bb7fdd0b-e63f-4003-b429-09fc5e498cda?source=sessions
+1684188221-104,https://build.microsoft.com/en-US/sessions,"Azure OpenAI + Cognitive Search: vectors, generative apps, plugins Q&A","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/4ea50ba5-1410-4c45-9256-ba27ec10a443?source=sessions
+1684188221-105,https://build.microsoft.com/en-US/sessions,"Build and Maintain your Company Copilot with Azure ML and GPT-4, Q&A","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/aa233dcf-c3fe-4eda-9840-f1590f8ce228?source=sessions
+1684188221-106,https://build.microsoft.com/en-US/sessions,Edge to Cloud with InfluxDB,"Tuesday, May 23
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/098d6828-1dfb-4fa9-b6f2-49ac7511dc16?source=sessions
+1684188221-107,https://build.microsoft.com/en-US/sessions,"How we integrated WinUI 3 into File Explorer, Q&A","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/6d3467f6-a6a9-42b9-a404-c9ed507b6066?source=sessions
+1684188221-108,https://build.microsoft.com/en-US/sessions,Learn Live: GitHub administration for GitHub Advanced Security,"Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time",7:00 PM - 8:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/70e5d2d6-8983-4722-a688-239979315d4b?source=sessions
+1684188221-109,https://build.microsoft.com/en-US/sessions,"Microsoft Dev Box and Azure Deployment Environments, Q&A","Tuesday, May 23
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/6e729039-a509-471f-9ad9-c90ac6b25b19?source=sessions
+1684188221-110,https://build.microsoft.com/en-US/sessions,Modern workforce document automation solutions by Adobe & Microsoft,"Tuesday, May 23
+7:00 PM - 7:30 PM Eastern Daylight Time",7:00 PM - 7:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/03e2fc30-3a78-4365-96b9-bb05c506dc1f?source=sessions
+1684188221-111,https://build.microsoft.com/en-US/sessions,Unblock Your Cloud Transformation with Anjuna Computing Platform,"Tuesday, May 23
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/99ac9f0b-70a2-47b2-90fa-2a91ac501234?source=sessions
+1684188221-112,https://build.microsoft.com/en-US/sessions,"Build a chat bot using Azure OpenAI, Azure Cosmos DB and Blazor Server","Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/c332df94-9f89-41b2-ae19-4562d1d93864?source=sessions
+1684188221-113,https://build.microsoft.com/en-US/sessions,Build an end-to-end customer engagement app with Azure Communication,"Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/f20a67ed-30fa-49c0-965a-11b5daaabb4b?source=sessions
+1684188221-114,https://build.microsoft.com/en-US/sessions,Democratize your data estate with the latest data warehouse,"Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/b89d8d4c-a11c-4912-b705-b2abff11c864?source=sessions
+1684188221-115,https://build.microsoft.com/en-US/sessions,DevSecOps: How to simplify and integrate security in the SDLC,"Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/1f20befe-e8b8-4250-841a-b76a1447a7d4?source=sessions
+1684188221-116,https://build.microsoft.com/en-US/sessions,Creating custom experiences with Microsoft Mesh,"Tuesday, May 23
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/80ab0e72-53dd-402f-af9a-112b5d003e52?source=sessions
+1684188221-117,https://build.microsoft.com/en-US/sessions,How we did it: ChatGPT for the enterprise with Aisera,"Tuesday, May 23
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/c08645c9-2867-4a2f-8c30-087cba918adc?source=sessions
+1684188221-118,https://build.microsoft.com/en-US/sessions,Enable more sensitive workloads on Azure with confidential VMs and containers,"Tuesday, May 23
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/8c29491e-70b8-434a-b3d4-dcb2f1ebbd40?source=sessions
+1684188221-119,https://build.microsoft.com/en-US/sessions,From idea to app in 15 minutes using Teams Toolkit and GitHub Copilot,"Tuesday, May 23
+7:15 PM - 7:30 PM Eastern Daylight Time",7:15 PM - 7:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/17e0391f-9541-4141-a698-99b85bafa540?source=sessions
+1684188221-120,https://build.microsoft.com/en-US/sessions,How we did it: Using AI to analyze customer experience with Commerce.AI,"Tuesday, May 23
+7:15 PM - 7:30 PM Eastern Daylight Time",7:15 PM - 7:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/4ac9cd70-2ebc-4e44-ac86-163495b85cfd?source=sessions
+1684188221-121,https://build.microsoft.com/en-US/sessions,Build faster with GitHub Copilot and Codespaces,"Tuesday, May 23
+7:30 PM - 7:45 PM Eastern Daylight Time",7:30 PM - 7:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/3b24e238-e569-4ebb-9ea7-bcdc7ed01e19?source=sessions
+1684188221-122,https://build.microsoft.com/en-US/sessions,Streamlining knowledge sources and keeping vector databases fresh,"Tuesday, May 23
+7:30 PM - 7:45 PM Eastern Daylight Time",7:30 PM - 7:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/afe3cc6c-a203-4e94-8ea8-a6bbffec0847?source=sessions
+1684188221-123,https://build.microsoft.com/en-US/sessions,Build apps with state-of-the-art computer vision,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/6192a166-2742-42c1-9d12-adbb3daa30bb?source=sessions
+1684188221-124,https://build.microsoft.com/en-US/sessions,Building AI solutions with Semantic Kernel,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions
+1684188221-125,https://build.microsoft.com/en-US/sessions,Integrating Azure AI and Azure Kubernetes Service to build intelligent apps,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/84b5c64f-6cb7-48b1-8f18-25f63405b965?source=sessions
+1684188221-126,https://build.microsoft.com/en-US/sessions,Pragmatic techniques to get the most out of GitHub Copilot,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/7a726a0f-5433-46a4-a91d-7d427ffb5b30?source=sessions
+1684188221-127,https://build.microsoft.com/en-US/sessions,Accelerate innovation with a cloud-first go-to-market strategy,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/f92247d4-5582-463d-88a0-cbd7b8652fec?source=sessions
+1684188221-128,https://build.microsoft.com/en-US/sessions,"ASP.NET Core and Blazor futures, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/4cfe374e-a9a0-4a82-a9b6-890bd90df931?source=sessions
+1684188221-129,https://build.microsoft.com/en-US/sessions,"Best practices for running an API stewardship program, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/adc2f229-e1b7-4e72-99dc-5c8c6c0139ee?source=sessions
+1684188221-130,https://build.microsoft.com/en-US/sessions,Enabling Successful Confidential Computing with AMD + Azure,"Tuesday, May 23
+8:15 PM - 8:45 PM Eastern Daylight Time",8:15 PM - 8:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/44386acf-6e7e-4be3-ae6e-2700b7d3adc8?source=sessions
+1684188221-131,https://build.microsoft.com/en-US/sessions,"Introducing Fluent 2: Coherent design principles, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/61ab97de-c683-4302-938f-f110548ccfa3?source=sessions
+1684188221-132,https://build.microsoft.com/en-US/sessions,Learn Live: Get started with AI on Microsoft Azure,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time",8:15 PM - 9:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/2daf44bd-4c37-4490-a2cf-b3cb5f9542c0?source=sessions
+1684188221-133,https://build.microsoft.com/en-US/sessions,"Modernize your Win32 application for security and privacy, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/d2ad7043-223f-4bbe-81e7-e83abc6fa631?source=sessions
+1684188221-134,https://build.microsoft.com/en-US/sessions,"Playwright, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/9ddbe1f1-41fe-4147-b0ad-1ff6f659a8b5?source=sessions
+1684188221-135,https://build.microsoft.com/en-US/sessions,"Responsible AI: How to build models to check for fairness, Q&A","Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/02845227-460a-463d-91f2-ebe50cf9890a?source=sessions
+1684188221-136,https://build.microsoft.com/en-US/sessions,Slow Starts to Stellar Results: How AI Can Improve Team Collaboration,"Tuesday, May 23
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/6b02e56d-9107-484d-ad66-5bd9d460870d?source=sessions
+1684188221-137,https://build.microsoft.com/en-US/sessions,Responsibility and safety when building AI,"Tuesday, May 23
+8:15 PM - 9:00 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/f34ae4df-ca2f-476b-b251-29260110f32d?source=sessions
+1684188221-138,https://build.microsoft.com/en-US/sessions,Analytics in the Microsoft Intelligent Data Platform DREAM lab,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/e761cb4f-eaca-4dfb-b0e4-697671eca7fa?source=sessions
+1684188221-139,https://build.microsoft.com/en-US/sessions,From web services to Teams apps using Teams Toolkit v5.0,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/931a8311-5403-4462-8270-c21b2a7cd23d?source=sessions
+1684188221-140,https://build.microsoft.com/en-US/sessions,Learn how to use OpenAI models (e.g. ChatGPT) using Azure OpenAI,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/a012148d-596a-4a21-8a5b-f15a17a91b8a?source=sessions
+1684188221-141,https://build.microsoft.com/en-US/sessions,Progressive Web Apps for beginners,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/71d5ac39-6162-49b0-9076-5a88d5136572?source=sessions
+1684188221-142,https://build.microsoft.com/en-US/sessions,Customize your Windows Terminal,"Tuesday, May 23
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/3e87b049-d3c5-4d92-b601-53d868067e79?source=sessions
+1684188221-143,https://build.microsoft.com/en-US/sessions,Introducing ChatGPT on Azure OpenAI Service,"Tuesday, May 23
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/abb97429-e4e6-4269-bb47-77b50943d8d9?source=sessions
+1684188221-144,https://build.microsoft.com/en-US/sessions,Exploring the future of AI in SQL and Spark scenarios,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/38382008-d138-4604-804b-7faad85f653a?source=sessions
+1684188221-145,https://build.microsoft.com/en-US/sessions,Integrate your data with latest Data warehouse and Data Factory capabilities,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/bded6aec-aa6d-4a8d-9647-6665d1abe411?source=sessions
+1684188221-146,https://build.microsoft.com/en-US/sessions,Real-time event streaming,"Tuesday, May 23
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/1cbe2f39-2d4e-4eae-8c46-ca91c7d41edd?source=sessions
+1684188221-147,https://build.microsoft.com/en-US/sessions,Ten little ways you didn't know Windows can make devs more productive,"Tuesday, May 23
+8:30 PM - 8:45 PM Eastern Daylight Time",8:30 PM - 8:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/67068324-d15b-47f2-bfb3-2e67525d93bd?source=sessions
+1684188221-148,https://build.microsoft.com/en-US/sessions,Unleash the power of ChatGPT and Cognitive Search,"Tuesday, May 23
+8:30 PM - 8:45 PM Eastern Daylight Time",8:30 PM - 8:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/5e2653b6-5e46-4a6a-b9a1-48b97744eb82?source=sessions
+1684188221-149,https://build.microsoft.com/en-US/sessions,GenAI for Knowledge: transform search of unstructured data with personality,"Tuesday, May 23
+8:45 PM - 9:00 PM Eastern Daylight Time",8:45 PM - 9:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/4591b469-a66a-44c3-b0e1-dbb28b2fdc9a?source=sessions
+1684188221-150,https://build.microsoft.com/en-US/sessions,Shaping the future of work with AI,"Wednesday, May 24
+12:00 PM - 1:30 PM Eastern Daylight Time",12:00 PM - 1:30 PM Eastern Daylight Time,Keynote,DigitalIn-Person,/en-US/sessions/8aab36d1-d27d-46dd-81ec-eb3f49cfee6a?source=sessions
+1684188221-151,https://build.microsoft.com/en-US/sessions,Deep dive into .NET performance and native AOT,"Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/28588f70-fb54-447a-b778-7ef02c8ffdf8?source=sessions
+1684188221-152,https://build.microsoft.com/en-US/sessions,"Deliver AI-powered experiences across cloud and edge, with Windows","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/0ea15726-1273-4a7c-a71a-efc635172a3b?source=sessions
+1684188221-153,https://build.microsoft.com/en-US/sessions,Developer joy with Scott Hanselman and friends,"Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/7ed9bb72-b4f4-4490-9b26-911d1ac263d1?source=sessions
+1684188221-154,https://build.microsoft.com/en-US/sessions,Harness the power of AI: Extend Copilot and beyond,"Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/1bf0b282-fd10-49fe-9851-24cbf3ab15cf?source=sessions
+1684188221-155,https://build.microsoft.com/en-US/sessions,Self-expression and pronouns in Microsoft 365,"Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/5562d673-2d68-466d-a0c8-dbe16806e739?source=sessions
+1684188221-156,https://build.microsoft.com/en-US/sessions,"Building an AI Copilot with Semantic Kernel in the GPT-4 era, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/d7973468-7060-41d8-91a5-1b3a94fa69b1?source=sessions
+1684188221-157,https://build.microsoft.com/en-US/sessions,"Cloud-native and Linux on Microsoft Azure, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/4c586f76-ad6e-444f-881b-e6d36487de57?source=sessions
+1684188221-158,https://build.microsoft.com/en-US/sessions,"Designing and implementing automation and conversational AI, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/c87b8125-30c7-462b-a5fd-f0a04a659419?source=sessions
+1684188221-159,https://build.microsoft.com/en-US/sessions,Harnessing generative AI with NVIDIA AI and Microsoft Azure,"Wednesday, May 24
+2:00 PM - 2:30 PM Eastern Daylight Time",2:00 PM - 2:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/373096b6-ba5a-4efc-89da-d44428a84273?source=sessions
+1684188221-160,https://build.microsoft.com/en-US/sessions,How to optimize your vector databases while keeping your data current,"Wednesday, May 24
+2:00 PM - 2:15 PM Eastern Daylight Time",2:00 PM - 2:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/2e47e6b8-d39a-4de8-9c52-ad82365753a8?source=sessions
+1684188221-161,https://build.microsoft.com/en-US/sessions,"Java experts at Microsoft, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/3b23a954-5456-457a-a9e7-abc1e8e49edd?source=sessions
+1684188221-162,https://build.microsoft.com/en-US/sessions,Learn Live: Enterprise 5G technologies for Azure Cloud Services,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time",2:00 PM - 3:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/cc41eb4d-31a8-4dd8-8d6d-2cea646c2e54?source=sessions
+1684188221-163,https://build.microsoft.com/en-US/sessions,"Managing world-class DevOps with Microsoft Teams, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/7a5f5a3b-56a2-41db-82f6-dbc460050643?source=sessions
+1684188221-164,https://build.microsoft.com/en-US/sessions,"Synapse data warehouse, Q&A","Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/2184783a-5cef-4dc2-818b-01953de121df?source=sessions
+1684188221-165,https://build.microsoft.com/en-US/sessions,Integrating Azure OpenAI Service into your intelligent apps,"Wednesday, May 24
+2:00 PM - 2:45 PM Eastern Daylight Time
+Limited space",2:00 PM - 2:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/4fa46b40-5a7e-4a2e-8641-e9665b7da757?source=sessions
+1684188221-166,https://build.microsoft.com/en-US/sessions,"Build a chat bot using ChatGPT, Azure Cosmos DB, and Blazor","Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/7d079d0a-4b94-407e-a93a-5c8fb04521b2?source=sessions
+1684188221-167,https://build.microsoft.com/en-US/sessions,Building your low-code hyperscale backend on Microsoft Dataverse,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/1e7acb36-9358-497d-9658-28cd62623181?source=sessions
+1684188221-168,https://build.microsoft.com/en-US/sessions,Interactive tutorial: Automated cloud application testing,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/7c86feb0-55ab-44a2-99f8-719baf38abf2?source=sessions
+1684188221-169,https://build.microsoft.com/en-US/sessions,Taking Azure Kubernetes Service out of the cloud and into your world,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/90e9eb34-f7a1-482c-bc99-3faa90026506?source=sessions
+1684188221-170,https://build.microsoft.com/en-US/sessions,Angular and ReactJS for mobile and desktop apps,"Wednesday, May 24
+2:00 PM - 2:15 PM Eastern Daylight Time",2:00 PM - 2:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/c6757bc0-5a28-4597-a6ca-9d6e91ab0bbf?source=sessions
+1684188221-171,https://build.microsoft.com/en-US/sessions,Transform your apps with vision AI,"Wednesday, May 24
+2:00 PM - 2:15 PM Eastern Daylight Time",2:00 PM - 2:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/02d55118-9ebb-45b3-9869-f24346379e81?source=sessions
+1684188221-172,https://build.microsoft.com/en-US/sessions,Real-time analytics with Azure Synapse Data Explorer,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/9c5af76c-17cb-4d02-8ae9-f1b338ce9049?source=sessions
+1684188221-173,https://build.microsoft.com/en-US/sessions,The vision of the future with Microsoft Authentication Library (MSAL) as an authentication broker,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/22e70bd3-ffc0-492e-847c-4395aa63af79?source=sessions
+1684188221-174,https://build.microsoft.com/en-US/sessions,Troubleshooting apps running on Kubernetes,"Wednesday, May 24
+2:00 PM - 3:00 PM Eastern Daylight Time
+Limited space",2:00 PM - 3:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/ac282ebd-0838-4d0e-9626-2aeeec24bdfb?source=sessions
+1684188221-175,https://build.microsoft.com/en-US/sessions,Full stack web in .NET 8 with Blazor,"Wednesday, May 24
+2:15 PM - 2:30 PM Eastern Daylight Time",2:15 PM - 2:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/7fc9a4e6-b9ca-42ef-b523-34335603e42c?source=sessions
+1684188221-176,https://build.microsoft.com/en-US/sessions,"Use Azure Cosmos DB, Azure Logic Apps, and AI to store and analyze images","Wednesday, May 24
+2:15 PM - 2:30 PM Eastern Daylight Time",2:15 PM - 2:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/998c7702-5d0d-4bc8-8c24-08bfea6e9553?source=sessions
+1684188221-177,https://build.microsoft.com/en-US/sessions,Boost Dev Time: Blazor Hybrid App + .NET MAUI = 2X Faster Results!,"Wednesday, May 24
+2:30 PM - 2:45 PM Eastern Daylight Time",2:30 PM - 2:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/68ebe075-016d-4d8a-ad9c-08ceec7f9b97?source=sessions
+1684188221-178,https://build.microsoft.com/en-US/sessions,Slow Starts to Stellar Results: How AI Can Improve Team Collaboration,"Wednesday, May 24
+2:30 PM - 2:45 PM Eastern Daylight Time",2:30 PM - 2:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/72d454d0-a1d1-432a-ad85-7bc036332ed3?source=sessions
+1684188221-179,https://build.microsoft.com/en-US/sessions,Build The Best With Active Tests: Shift Left with API Security,"Wednesday, May 24
+3:15 PM - 3:30 PM Eastern Daylight Time",3:15 PM - 3:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/659cc34f-a2af-4371-9524-b9a8a8ba16bc?source=sessions
+1684188221-180,https://build.microsoft.com/en-US/sessions,Building Adaptive Card-based Loop components for Microsoft 365,"Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/0d175daf-5ccf-43dd-8ce9-8710245a8768?source=sessions
+1684188221-181,https://build.microsoft.com/en-US/sessions,"Costs and benefits of .NET Application Migration to the cloud, Q&A","Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/e26fcc5a-dc48-4467-9042-a83854456e6d?source=sessions
+1684188221-182,https://build.microsoft.com/en-US/sessions,Distributed NoSQL vs. D-SQL: What to use for your cloud-native app Q&A,"Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/c28461cf-52f8-4db3-88c0-2cc13610d6a0?source=sessions
+1684188221-183,https://build.microsoft.com/en-US/sessions,Learn Live: Introduction to Azure OpenAI Service,"Wednesday, May 24
+3:15 PM - 4:15 PM Eastern Daylight Time",3:15 PM - 4:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/be53cfb2-03dd-422a-b681-a45e5e757e22?source=sessions
+1684188221-184,https://build.microsoft.com/en-US/sessions,"Next-Level DevSecOps: Secure Supply Chain Consumption Framework, Q&A","Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/158b88dd-68d5-4ac0-aa25-a89dfccb312e?source=sessions
+1684188221-185,https://build.microsoft.com/en-US/sessions,NVIDIA AI Enterprise Registry for AzureML deployments of AI Workflows,"Wednesday, May 24
+3:15 PM - 3:45 PM Eastern Daylight Time",3:15 PM - 3:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/733cb7af-dd1e-42c5-87ff-884cf7303bf3?source=sessions
+1684188221-186,https://build.microsoft.com/en-US/sessions,"The future of AI and generative code, Q&A","Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/5a86e856-5124-4055-a2f2-7d5df62a07cb?source=sessions
+1684188221-187,https://build.microsoft.com/en-US/sessions,The future of the cloud platform,"Wednesday, May 24
+3:15 PM - 4:00 PM Eastern Daylight Time
+Limited space",3:15 PM - 4:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/8d95ec32-05e5-4c07-84c9-260148a7578d?source=sessions
+1684188221-188,https://build.microsoft.com/en-US/sessions,Do We Need Rust Language Support for Azure?,"Wednesday, May 24
+3:15 PM - 4:15 PM Eastern Daylight Time
+Limited space",3:15 PM - 4:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/1c1f7f38-17d2-4075-8d33-d0acb5bbdaa3?source=sessions
+1684188221-189,https://build.microsoft.com/en-US/sessions,Simplify Microsoft Entra Workload Identities with DevSecOps,"Wednesday, May 24
+3:15 PM - 4:15 PM Eastern Daylight Time
+Limited space",3:15 PM - 4:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/2c4acd04-a768-425a-b706-be1b109d1d31?source=sessions
+1684188221-190,https://build.microsoft.com/en-US/sessions,The future of digital twin solutions in manufacturing,"Wednesday, May 24
+3:15 PM - 4:15 PM Eastern Daylight Time
+Limited space",3:15 PM - 4:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/6dfeba57-7413-41ed-9ec3-e42177f3f855?source=sessions
+1684188221-191,https://build.microsoft.com/en-US/sessions,"Build scalable, cloud-native apps with Kubernetes and Azure Cosmos DB","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/6bea806c-624c-44d3-9e53-513b22eff3e4?source=sessions
+1684188221-192,https://build.microsoft.com/en-US/sessions,Deliver apps from code to cloud with Azure Kubernetes Service,"Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/64b2f97f-bde6-4d86-aa26-587c60863886?source=sessions
+1684188221-193,https://build.microsoft.com/en-US/sessions,New developer experiences in Windows,"Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/5017d756-1ed1-468c-bd43-1ac98079f71e?source=sessions
+1684188221-194,https://build.microsoft.com/en-US/sessions,The future of app development with the Microsoft Power Platform,"Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/d6f18526-1083-478e-a493-2d8d578c7c57?source=sessions
+1684188221-195,https://build.microsoft.com/en-US/sessions,Vector Search Isn’t Enough,"Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/038984b3-7c5d-4cc6-b24e-5d9f62bc2f0e?source=sessions
+1684188221-196,https://build.microsoft.com/en-US/sessions,"Boosting community and content safety with Azure AI, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/8f36c79c-7a9a-4c2e-a393-6651cfe0cd1e?source=sessions
+1684188221-197,https://build.microsoft.com/en-US/sessions,"Build and ship global full stack serverless web apps, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/c8bdc668-8bc5-4919-8ee6-0f1551f214ec?source=sessions
+1684188221-198,https://build.microsoft.com/en-US/sessions,"Choosing the right Microsoft Azure destination for your Java application, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/d911b512-7ffb-44f4-8823-50442c803b54?source=sessions
+1684188221-199,https://build.microsoft.com/en-US/sessions,"Creator tech tips, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/d1e70d11-b907-4526-923c-e9597bea269c?source=sessions
+1684188221-200,https://build.microsoft.com/en-US/sessions,Learn Live: Publish a web app to Microsoft Azure with Visual Studio,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time",4:30 PM - 5:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/afd48c1f-f229-4dba-a5ec-665d98199011?source=sessions
+1684188221-201,https://build.microsoft.com/en-US/sessions,Metaverse Meets Generative AI: Opportunities & Challenges Ahead,"Wednesday, May 24
+4:30 PM - 5:00 PM Eastern Daylight Time",4:30 PM - 5:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/5f28e727-f447-48af-b853-dc6d96a7b635?source=sessions
+1684188221-202,https://build.microsoft.com/en-US/sessions,"Operationalization of AI/ML models and use cases for ChatGPT, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/26815f90-bd7c-407d-b5e3-b453d72c3fd9?source=sessions
+1684188221-203,https://build.microsoft.com/en-US/sessions,"Python web apps on Microsoft Azure, Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/15974ac4-9aae-4bb2-9430-1bf42fb47d2d?source=sessions
+1684188221-204,https://build.microsoft.com/en-US/sessions,"Simplify Your Data Stack: Automate, Orchestrate and Integrate Data","Wednesday, May 24
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/35c8454c-859d-41ef-b4ce-1fd27bdcfa19?source=sessions
+1684188221-205,https://build.microsoft.com/en-US/sessions,"What's new in .NET Multi-platform App UI (MAUI), Q&A","Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/2215f254-3fc3-4529-aa2f-3578b3bfdac9?source=sessions
+1684188221-206,https://build.microsoft.com/en-US/sessions,AI Horizons: Exploring the Future with Eric Boyd & John Montgomery,"Wednesday, May 24
+4:30 PM - 5:15 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:15 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/dcbbb0fe-a0f4-4c51-bd74-b3976d0f487c?source=sessions
+1684188221-207,https://build.microsoft.com/en-US/sessions,DevSecOps: How to simplify and integrate security in the SDLC,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/5ad27c23-0b67-4bfe-8275-f1630bf44597?source=sessions
+1684188221-208,https://build.microsoft.com/en-US/sessions,Get started with lakehouses,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/05a7371d-c393-4908-ab33-db0d2e2bcf43?source=sessions
+1684188221-209,https://build.microsoft.com/en-US/sessions,Modernize with .NET on Azure App Service,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/538c50fa-c7c7-40ae-9e46-cc7ac12393db?source=sessions
+1684188221-210,https://build.microsoft.com/en-US/sessions,Supercharge your data retrieval and validation with ChatGPT,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/e5df487a-cf28-4855-a3ef-800083439fef?source=sessions
+1684188221-211,https://build.microsoft.com/en-US/sessions,Build and deploy an intelligent app with AKS and OSS,"Wednesday, May 24
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/1e1db93d-11bb-4af1-bb58-52e00e590750?source=sessions
+1684188221-212,https://build.microsoft.com/en-US/sessions,Organizational analytics made easy with Microsoft Graph Data Connect,"Wednesday, May 24
+4:30 PM - 4:45 PM Eastern Daylight Time",4:30 PM - 4:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/815d6be0-2038-4833-9b1c-57bccf960157?source=sessions
+1684188221-213,https://build.microsoft.com/en-US/sessions,360 Degrees of Feedback: Enhancing the Microsoft 365 Developer Program,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/73582587-5cac-4ca7-a3a1-a67378779cd8?source=sessions
+1684188221-214,https://build.microsoft.com/en-US/sessions,AI Infused Omnichannel Communications,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/0ffe75f6-8de9-4f82-ae19-b0a1239b5664?source=sessions
+1684188221-215,https://build.microsoft.com/en-US/sessions,New PubSub capabilities in Azure Event Grid,"Wednesday, May 24
+4:30 PM - 5:30 PM Eastern Daylight Time
+Limited space",4:30 PM - 5:30 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/56a8db02-4556-472a-8dd1-57e18f70d65d?source=sessions
+1684188221-216,https://build.microsoft.com/en-US/sessions,Learn how to integrate any solution into Viva Connections,"Wednesday, May 24
+4:45 PM - 5:00 PM Eastern Daylight Time",4:45 PM - 5:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/b7b051cf-46a1-4f02-943a-42c26885a21a?source=sessions
+1684188221-217,https://build.microsoft.com/en-US/sessions,Test automation with Playwright,"Wednesday, May 24
+4:45 PM - 5:00 PM Eastern Daylight Time",4:45 PM - 5:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/3e996b50-e403-4998-87c4-417ed4ce3431?source=sessions
+1684188221-218,https://build.microsoft.com/en-US/sessions,Edge to Cloud with InfluxDB,"Wednesday, May 24
+5:00 PM - 5:15 PM Eastern Daylight Time",5:00 PM - 5:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/c4be9d33-26a7-48e5-b0ce-25d1139c74b0?source=sessions
+1684188221-219,https://build.microsoft.com/en-US/sessions,Get full-stack visibility into your Azure environment in minutes,"Wednesday, May 24
+5:00 PM - 5:15 PM Eastern Daylight Time",5:00 PM - 5:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/3a439744-5958-497f-a3e3-6d9efb593a52?source=sessions
+1684188221-220,https://build.microsoft.com/en-US/sessions,How GitHub builds GitHub with GitHub,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/e3492a33-2601-4378-9ee8-a78d40b32df6?source=sessions
+1684188221-221,https://build.microsoft.com/en-US/sessions,Inside Azure innovations with Mark Russinovich,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/836e93ad-72b1-49d4-9430-d6277051aba7?source=sessions
+1684188221-222,https://build.microsoft.com/en-US/sessions,Kickstart your .NET modernization journey with the RWA pattern,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/c4fe357e-2bb2-4201-a956-ca35c3497e06?source=sessions
+1684188221-223,https://build.microsoft.com/en-US/sessions,Learn how to get your machine to a ready-to-code state,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/936f762a-1236-41d1-9996-9322a45cad71?source=sessions
+1684188221-224,https://build.microsoft.com/en-US/sessions,Practical deep dive into machine learning techniques and MLOps,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/6291f8bb-78b4-447e-bdca-c74143edf850?source=sessions
+1684188221-225,https://build.microsoft.com/en-US/sessions,Boost Dev Time: Blazor Hybrid App + .NET MAUI = 2X Faster Results!,"Wednesday, May 24
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/efb3263f-bcbc-41fe-ae28-66fba9d89b9c?source=sessions
+1684188221-226,https://build.microsoft.com/en-US/sessions,Build Modern Applications at Lightning Speed with Orkes,"Wednesday, May 24
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/85696a5e-f635-4aba-8b77-12863a18f018?source=sessions
+1684188221-227,https://build.microsoft.com/en-US/sessions,"Do more on Azure SQL Database Hyperscale, Q&A","Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/ed489151-dfa7-4328-a807-f89b31be6664?source=sessions
+1684188221-228,https://build.microsoft.com/en-US/sessions,Learn Live: Build a web app with Blazor,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time",5:45 PM - 6:45 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/bac92828-29c3-4043-b886-14b181d1ec11?source=sessions
+1684188221-229,https://build.microsoft.com/en-US/sessions,"Microsoft Power Platform governance and Application Lifecycle Management, Q&A","Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/3c7758d8-f42c-4506-85c7-0ee19bad57f4?source=sessions
+1684188221-230,https://build.microsoft.com/en-US/sessions,"Securing organizations, pipelines, and integrations in Azure DevOps, Q&A","Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/649603cd-c704-4222-bbcf-10c14b739bf9?source=sessions
+1684188221-231,https://build.microsoft.com/en-US/sessions,Separating AI hype from fact,"Wednesday, May 24
+5:45 PM - 6:30 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:30 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/484e84d8-7051-406a-813a-19f70af798f5?source=sessions
+1684188221-232,https://build.microsoft.com/en-US/sessions,Build a serverless web application end-to-end on Microsoft Azure,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/f249ceaa-aa9d-473a-891d-d0dca6cb4191?source=sessions
+1684188221-233,https://build.microsoft.com/en-US/sessions,Build an intelligent app for Teams with the new AI library and Teams Toolkit,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/48a25574-4a14-4e9b-9cc1-f116adba7c33?source=sessions
+1684188221-234,https://build.microsoft.com/en-US/sessions,Democratize your data estate with the latest data warehouse,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/aab57b06-0864-451c-95dd-c8132bb01513?source=sessions
+1684188221-235,https://build.microsoft.com/en-US/sessions,Experience Hybrid Loop to build AI experiences on diverse hardware,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/359d7364-2c4f-4ee3-a150-cd7f39783c27?source=sessions
+1684188221-236,https://build.microsoft.com/en-US/sessions,Build web apps and connect to data faster using Microsoft Power Pages,"Wednesday, May 24
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/351c36fd-cb2c-45eb-927d-66fe0c3c9515?source=sessions
+1684188221-237,https://build.microsoft.com/en-US/sessions,Effortlessly troubleshoot your Azure apps with AI-powered recommendations,"Wednesday, May 24
+5:45 PM - 6:00 PM Eastern Daylight Time",5:45 PM - 6:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/518e84b7-9c9a-4236-90e2-3b356f5f2f00?source=sessions
+1684188221-238,https://build.microsoft.com/en-US/sessions,Deep dive into monitoring your cloud-native environment with Azure Monitor,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/620d9d56-87fa-4bba-960b-f64e633ce3ba?source=sessions
+1684188221-239,https://build.microsoft.com/en-US/sessions,Help us elevate your development experience on Windows,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/4e5dc847-48fa-47ac-ad22-6c72e53cdf38?source=sessions
+1684188221-240,https://build.microsoft.com/en-US/sessions,Q&A with the team behind Microsoft's new Linux Distro,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/379005cd-6a55-4511-8d43-c5ceaad34e60?source=sessions
+1684188221-241,https://build.microsoft.com/en-US/sessions,Technology Vendor Integrations for B2C and B2B applications - Present and Future with Microsoft Entra External ID,"Wednesday, May 24
+5:45 PM - 6:45 PM Eastern Daylight Time
+Limited space",5:45 PM - 6:45 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/1cb988cd-5065-4783-81d8-73a0b7a57db5?source=sessions
+1684188221-242,https://build.microsoft.com/en-US/sessions,New confidential container offerings in Microsoft Azure,"Wednesday, May 24
+6:00 PM - 6:15 PM Eastern Daylight Time",6:00 PM - 6:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/81d4e6ea-3483-433e-a206-0c76a83cebb0?source=sessions
+1684188221-243,https://build.microsoft.com/en-US/sessions,Power Fx and AI in Microsoft Dataverse,"Wednesday, May 24
+6:00 PM - 6:15 PM Eastern Daylight Time",6:00 PM - 6:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/9b91c2e5-ed03-4897-b460-1d4333d90629?source=sessions
+1684188221-244,https://build.microsoft.com/en-US/sessions,How does OpenFL Boost Your Federated Learning Project,"Wednesday, May 24
+6:15 PM - 6:30 PM Eastern Daylight Time",6:15 PM - 6:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/fdeec2c0-813a-45e4-9ec8-90db0324d0fd?source=sessions
+1684188221-245,https://build.microsoft.com/en-US/sessions,"Simplify Your Data Stack: Automate, Orchestrate and Integrate Data","Wednesday, May 24
+6:15 PM - 6:30 PM Eastern Daylight Time",6:15 PM - 6:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/4bd4208b-b7f5-462d-8b61-ac6ac1439cce?source=sessions
+1684188221-246,https://build.microsoft.com/en-US/sessions,AI innovation in the Microsoft Power Platform,"Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/f335d3e7-5f5c-45c1-922e-72b86d785297?source=sessions
+1684188221-247,https://build.microsoft.com/en-US/sessions,Beyond 300M users: How to bring your Teams app to Outlook and Microsoft 365,"Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/24df6246-0f64-4e44-999c-397834c62103?source=sessions
+1684188221-248,https://build.microsoft.com/en-US/sessions,From paper pushers to automation: Automate and protect your documents,"Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/c95760e1-e0c5-49a4-89cf-18d36a906931?source=sessions
+1684188221-249,https://build.microsoft.com/en-US/sessions,Modernizing your applications with containers and serverless​,"Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/ab8ea16d-ddc4-4a94-b751-39904a8213c4?source=sessions
+1684188221-250,https://build.microsoft.com/en-US/sessions,Seamlessly integrate security throughout your code to cloud workflow,"Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/ec7b2135-c777-4432-94b9-9e1ca918f3cb?source=sessions
+1684188221-251,https://build.microsoft.com/en-US/sessions,"AI made easier: How the ONNX Runtime and Olive toolchain will help you, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/47fe414f-97b8-4b71-ae9e-be9602713667?source=sessions
+1684188221-252,https://build.microsoft.com/en-US/sessions,"All about data analytics, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/1b03f355-d931-4a39-9b1c-dddfe643db36?source=sessions
+1684188221-253,https://build.microsoft.com/en-US/sessions,Best practices on managing GPUs in Azure with Run:ai,"Wednesday, May 24
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/bd330577-333a-4c86-b59f-25c742968eac?source=sessions
+1684188221-254,https://build.microsoft.com/en-US/sessions,"Building computer vision applications, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/1068ca99-652d-4504-8235-cb7247891f75?source=sessions
+1684188221-255,https://build.microsoft.com/en-US/sessions,"Development with accessibility in mind, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/8bc457a3-6229-4873-b000-7fb349441671?source=sessions
+1684188221-256,https://build.microsoft.com/en-US/sessions,"How good team culture is making Windows better for developers, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/9fda2e1d-eff2-47fa-a0b9-c19160d20c3f?source=sessions
+1684188221-257,https://build.microsoft.com/en-US/sessions,How Secure is your Application and Infrastructure Code?,"Wednesday, May 24
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/5352fe3b-c298-4ad3-9655-6e113c519fab?source=sessions
+1684188221-258,https://build.microsoft.com/en-US/sessions,"Kickstart your modernization journey with the reliable web app pattern, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/7d64fe67-44f9-4a57-ad0c-7ad256d5abc7?source=sessions
+1684188221-259,https://build.microsoft.com/en-US/sessions,Learn Live: Get started with custom connectors in Power Automate,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time",7:00 PM - 8:00 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/73efff57-deb7-499f-bef8-544deac10ae1?source=sessions
+1684188221-260,https://build.microsoft.com/en-US/sessions,"Microsoft Power Platform and code-first development, Q&A","Wednesday, May 24
+7:00 PM - 7:45 PM Eastern Daylight Time",7:00 PM - 7:45 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/68546af1-a932-4837-833f-c1e72dfdd0b5?source=sessions
+1684188221-261,https://build.microsoft.com/en-US/sessions,Build foundation models using Azure Container for PyTorch and Azure ML,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/02e6fc1a-be20-4a7f-a905-35b54f310f40?source=sessions
+1684188221-262,https://build.microsoft.com/en-US/sessions,Experience Hybrid Loop to build AI experiences on diverse hardware,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/b4d8d65c-8b9f-4110-9c0e-99b61e056d4b?source=sessions
+1684188221-263,https://build.microsoft.com/en-US/sessions,Learn how to build a modern data stack in an hour,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/b1e960ac-e00b-486b-af92-a75a952e192c?source=sessions
+1684188221-264,https://build.microsoft.com/en-US/sessions,Skill up with Microsoft Power Platform and GitHub,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/bebf7ffc-8ed8-4df5-99ad-56e450ca1cc4?source=sessions
+1684188221-265,https://build.microsoft.com/en-US/sessions,Enlighten your Windows apps with user presence and engagement signals,"Wednesday, May 24
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/70742861-1033-424b-87d3-3f5f439bdd28?source=sessions
+1684188221-266,https://build.microsoft.com/en-US/sessions,Prioritize your most critical security findings with Microsoft Defender for DevOps,"Wednesday, May 24
+7:00 PM - 7:15 PM Eastern Daylight Time",7:00 PM - 7:15 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/f62e22f4-8140-4122-91c6-c11e2f44bec4?source=sessions
+1684188221-267,https://build.microsoft.com/en-US/sessions,Everything you want us to know about Azure AI services,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/7ec71a41-939e-4967-8a8c-9bb7276a5335?source=sessions
+1684188221-268,https://build.microsoft.com/en-US/sessions,Kubernetes usage and management outside of Azure,"Wednesday, May 24
+7:00 PM - 8:00 PM Eastern Daylight Time
+Limited space",7:00 PM - 8:00 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/eda3e1ec-d206-4bf3-b6cc-89c221b984d2?source=sessions
+1684188221-269,https://build.microsoft.com/en-US/sessions,Get your app ready to stream with MSIX,"Wednesday, May 24
+7:15 PM - 7:30 PM Eastern Daylight Time",7:15 PM - 7:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/1fe83d55-b379-4df9-aeae-18b281240175?source=sessions
+1684188221-270,https://build.microsoft.com/en-US/sessions,Implementing GitHub Advanced Security for Azure DevOps,"Wednesday, May 24
+7:15 PM - 7:30 PM Eastern Daylight Time",7:15 PM - 7:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/10907cb6-f838-481f-9256-37d3f43c1f5b?source=sessions
+1684188221-271,https://build.microsoft.com/en-US/sessions,Hands on Azure Chaos Studio,"Wednesday, May 24
+7:30 PM - 7:45 PM Eastern Daylight Time",7:30 PM - 7:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/e854f31b-8853-48cc-9e5e-0b09dd45e4eb?source=sessions
+1684188221-272,https://build.microsoft.com/en-US/sessions,Hybrid AI demo,"Wednesday, May 24
+7:30 PM - 7:45 PM Eastern Daylight Time",7:30 PM - 7:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/1ec99c2c-c8ee-4181-a8f4-3a04ce62a28b?source=sessions
+1684188221-273,https://build.microsoft.com/en-US/sessions,Advanced developer tips and tricks in Visual Studio,"Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/5ee143d2-5336-4e2f-b345-7daf606e7629?source=sessions
+1684188221-274,https://build.microsoft.com/en-US/sessions,Full stack scale with the Microsoft Power Platform,"Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/7dbe8e74-8768-4355-9a34-52a76fcc0178?source=sessions
+1684188221-275,https://build.microsoft.com/en-US/sessions,Learn how to build the best Arm apps for Windows,"Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/4c00afb9-e345-489c-bf7f-bfd6ecfde455?source=sessions
+1684188221-276,https://build.microsoft.com/en-US/sessions,Qualcomm® AI Stack for developers and extension to Hybrid AI,"Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/1fd4ff94-0b55-4c9c-863c-cd9b6c850304?source=sessions
+1684188221-277,https://build.microsoft.com/en-US/sessions,"Automated cloud application testing with Microsoft Azure and Playwright, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/bc24991f-f037-4bdf-9e60-e34987b07c8b?source=sessions
+1684188221-278,https://build.microsoft.com/en-US/sessions,"Building translation & language skills in your application, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/f91ffed0-2b49-4a07-ba73-63e5dab2d16b?source=sessions
+1684188221-279,https://build.microsoft.com/en-US/sessions,"Data-driven app and web development with Microsoft Power Platform, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/9e7e290b-0118-4a0d-9faa-2008443c8e08?source=sessions
+1684188221-280,https://build.microsoft.com/en-US/sessions,Learn in depth: What’s new with improved performance for all developers on Windows,"Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/55327bc8-6d99-40c5-8923-ab78c3d24c06?source=sessions
+1684188221-281,https://build.microsoft.com/en-US/sessions,Learn Live: Migrate SQL workloads to Azure Managed Instances,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time",8:15 PM - 9:15 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/9e4175d4-7549-4bff-b48d-864e9f5441da?source=sessions
+1684188221-282,https://build.microsoft.com/en-US/sessions,"Modernizing with containers and serverless, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/c4f97c43-9546-4fa4-a27d-f3ae598fafeb?source=sessions
+1684188221-283,https://build.microsoft.com/en-US/sessions,"New Azure Monitor capabilities monitoring cloud-native environments, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,In-Person,/en-US/sessions/b3956234-2b67-49d2-8af6-4b24cf3ebe84?source=sessions
+1684188221-284,https://build.microsoft.com/en-US/sessions,"Practical deep dive into machine learning techniques and MLOps, Q&A","Wednesday, May 24
+8:15 PM - 9:00 PM Eastern Daylight Time",8:15 PM - 9:00 PM Eastern Daylight Time,Discussion,DigitalIn-Person,/en-US/sessions/bfd9d8a7-962b-45f2-96f7-4d2dea15d195?source=sessions
+1684188221-285,https://build.microsoft.com/en-US/sessions,Using Cyber Data to Financially Quantify Cyber Risk Decisions,"Wednesday, May 24
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Discussion,Digital,/en-US/sessions/2056bedc-79a9-41bf-b476-a5325b014798?source=sessions
+1684188221-286,https://build.microsoft.com/en-US/sessions,Analytics in the Microsoft Intelligent Data Platform DREAM lab,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/180c875c-3821-4d23-96a9-9d3275768e67?source=sessions
+1684188221-287,https://build.microsoft.com/en-US/sessions,Build an intelligent app for Teams with the new AI library and Teams Toolkit,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/feb547f4-5787-4005-8fb2-f909c089ac46?source=sessions
+1684188221-288,https://build.microsoft.com/en-US/sessions,"Build flexible, intelligent apps with OSS on Microsoft Azure and GitHub Copilot","Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/56135bef-5435-4680-9bd7-224243dac195?source=sessions
+1684188221-289,https://build.microsoft.com/en-US/sessions,Learn how to use OpenAI models (e.g. ChatGPT) using Azure OpenAI,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Lab,In-Person,/en-US/sessions/585043ee-3d94-4422-87e7-6625fb3acd34?source=sessions
+1684188221-290,https://build.microsoft.com/en-US/sessions,Catalog in Microsoft Power Platform for pro developers,"Wednesday, May 24
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/978734ba-b8df-461a-9745-89e9deffaa13?source=sessions
+1684188221-291,https://build.microsoft.com/en-US/sessions,"Further, faster with Azure Functions and Azure SQL integration","Wednesday, May 24
+8:15 PM - 8:30 PM Eastern Daylight Time",8:15 PM - 8:30 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/6ffba46b-2059-4447-a4cb-9b0fd8d5d44c?source=sessions
+1684188221-292,https://build.microsoft.com/en-US/sessions,Everything you want us to know about Azure Cognitive Search,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/aa9a857e-9e19-4a6b-a144-d73019f72ef4?source=sessions
+1684188221-293,https://build.microsoft.com/en-US/sessions,"Synapse Data Engineering, Data Science & OpenAI Roundtable","Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/5b6b2f31-3022-42e4-8e30-ca25d885fb4c?source=sessions
+1684188221-294,https://build.microsoft.com/en-US/sessions,What's new in Container Networking,"Wednesday, May 24
+8:15 PM - 9:15 PM Eastern Daylight Time
+Limited space",8:15 PM - 9:15 PM Eastern Daylight Time,Product Roundtable,Digital,/en-US/sessions/0c3671a9-ed01-4c46-9947-c060c1273356?source=sessions
+1684188221-295,https://build.microsoft.com/en-US/sessions,Codespaces to Azure in minutes with the Azure Developer CLI,"Wednesday, May 24
+8:30 PM - 8:45 PM Eastern Daylight Time",8:30 PM - 8:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/f71571ba-8dcc-4707-bc9f-f0c66b388bec?source=sessions
+1684188221-296,https://build.microsoft.com/en-US/sessions,Protect your data from tampering with ledger on Azure SQL,"Wednesday, May 24
+8:30 PM - 8:45 PM Eastern Daylight Time",8:30 PM - 8:45 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/5dd06b6d-afcc-4954-b51a-377246fb24ac?source=sessions
+1684188221-297,https://build.microsoft.com/en-US/sessions,Harness the Power of AMD's Hardware Acceleration (FPGA) on Azure NP Series,"Wednesday, May 24
+8:45 PM - 9:00 PM Eastern Daylight Time",8:45 PM - 9:00 PM Eastern Daylight Time,Demo,In-Person,/en-US/sessions/a6200eb9-5ed7-4b9c-b8b3-8f7316582ad1?source=sessions
+1684188221-298,https://build.microsoft.com/en-US/sessions,Build secure applications with External Identities in Microsoft Entra,"Thursday, May 25
+12:30 PM - 1:15 PM Eastern Daylight Time",12:30 PM - 1:15 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/c24ddb1d-14b7-4b95-b9c4-aef097793702?source=sessions
+1684188221-299,https://build.microsoft.com/en-US/sessions,Develop from anywhere with Visual Studio Code,"Thursday, May 25
+12:30 PM - 1:15 PM Eastern Daylight Time",12:30 PM - 1:15 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/2e207744-0768-404a-aa91-daa71a73dd38?source=sessions
+1684188221-300,https://build.microsoft.com/en-US/sessions,"Increase developer velocity with Azure SQL Database, from data to API","Thursday, May 25
+12:30 PM - 1:15 PM Eastern Daylight Time",12:30 PM - 1:15 PM Eastern Daylight Time,Breakout,DigitalIn-Person,/en-US/sessions/a6bf2750-7af3-4e72-ba5c-6c68554f4311?source=sessions
+1684188221-301,https://build.microsoft.com/en-US/sessions,Transform Teams apps into multiplayer with Live Share,"Thursday, May 25
+12:30 PM - 1:15 PM Eastern Daylight Time",12:30 PM - 1:15 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/67d4a607-f4a1-460c-93d7-c80d94e965c8?source=sessions
+1684188221-302,https://build.microsoft.com/en-US/sessions,All things client and mobile app development with .NET MAUI,"Thursday, May 25
+1:45 PM - 2:30 PM Eastern Daylight Time",1:45 PM - 2:30 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/52f77215-c8fa-49eb-844b-46ad4b006987?source=sessions
+1684188221-303,https://build.microsoft.com/en-US/sessions,Build end-to-end AI solutions using new Azure AI products and features,"Thursday, May 25
+1:45 PM - 2:30 PM Eastern Daylight Time",1:45 PM - 2:30 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/ca52a708-0662-40cf-9dd0-0259003b2414?source=sessions
+1684188221-304,https://build.microsoft.com/en-US/sessions,Expanding your reach with Windows: How developers can win new users,"Thursday, May 25
+1:45 PM - 2:30 PM Eastern Daylight Time",1:45 PM - 2:30 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/dfd9a6be-4282-46d5-a10a-f86d85eab4a4?source=sessions
+1684188221-305,https://build.microsoft.com/en-US/sessions,Modernize .NET and Java web apps in Azure App Service,"Thursday, May 25
+1:45 PM - 2:30 PM Eastern Daylight Time",1:45 PM - 2:30 PM Eastern Daylight Time,Breakout,In-Person,/en-US/sessions/58f92fab-3298-444d-b215-6b93219cd5d7?source=sessions
+1684188221-306,https://build.microsoft.com/en-US/sessions,Scott and Mark Learn to Code,"Thursday, May 25
+3:00 PM - 4:00 PM Eastern Daylight Time",3:00 PM - 4:00 PM Eastern Daylight Time,Keynote,In-Person,/en-US/sessions/e9568a77-7cf7-451e-a14b-a347313b2494?source=sessions

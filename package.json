@@ -1,0 +1,16 @@
+{
+  "name": "webcal",
+  "version": "1.0.0",
+  "description": "Prints information from a webcal ",
+  "main": "index.js",
+  "author": "David Bates",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "ical.js": "^1.5.0",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.1"
+  }
+}

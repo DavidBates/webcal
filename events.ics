@@ -1,0 +1,2222 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:2023 Imagine Cup World Championship
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e1a04
+ 275-7abd-4d9a-907a-8899b685e40e?source=sessions
+DTSTART:20230523T114300
+DTEND:20230523T115700
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Build opening
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/49e81
+ 029-20f0-485b-b641-73b7f9622656?source=sessions
+DTSTART:20230523T120000
+DTEND:20230523T121500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The era of the AI Copilot
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bb8f9
+ d99-0c47-404f-8212-a85fffd3a59d?source=sessions
+DTSTART:20230523T121500
+DTEND:20230523T010000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next generation AI for developers with the Microsoft Cloud
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b1445
+ 158-aff5-44e8-b336-e1550770f028?source=sessions
+DTSTART:20230523T130000
+DTEND:20230523T020000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud-native development with .NET 8
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/92aa8
+ 923-2720-49a4-81a3-d117f08488fe?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getting started with generative AI using Azure OpenAI Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/27c0f
+ 55d-9c02-4003-bfb3-7e077a12fea2?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to build next-gen AI services with NVIDIA AI on Azure Cloud
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/33359
+ 0ed-ccbe-4358-a862-27c76fe8105e?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inject the power of the cloud and AI into your development workflow
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/01f6a
+ 7ae-d371-43d5-9e6c-9ed2cf853d94?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secure and observe your APIs no matter where they run
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d07b6
+ 555-129a-478f-9c4f-ff2f5260557b?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securing container deployments on Azure Kubernetes Service with ope
+ n-source tools
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0301c
+ 5a0-34cb-4a5b-ac0f-164b2d4191fa?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Achieve more with Azure PaaS: Azure App Service product experts\, Q
+ &A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0eca9
+ 1c3-f7f4-477e-ba6a-d7d0e9b4b95d?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build scalable and secure enterprise apps on OSS databases\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6a8c5
+ 273-b43f-4867-adfc-aef849633214?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEADTOOLS Low-Code Document Viewer\, Editor and Medical Viewer Cont
+ rols
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/71a61
+ 019-ea68-4d64-9c96-6efaea36357a?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Build a bot and Teams tab app with Teams Toolkit for Vi
+ sual Studio Code
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2d0bc
+ 66d-0c6b-4afe-956c-77df6988241f?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:News from around Microsoft Graph\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/96701
+ d41-44e4-40ea-a04e-5d5732705e6c?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualcomm Technologies and the power of Windows AI\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7f2b3
+ 618-36d1-4514-a7bf-78f655bcd7ab?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of the Art Data Retrieval with Machine Learning & Elasticsear
+ ch
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4798a
+ 437-8a14-40b9-88b6-b165e0916e1e?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deploy a Teams app to Azure using Microsoft Teams Toolkit for VS Co
+ de
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/83150
+ 524-082e-48fb-8a3d-025bbefb7b4b?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interactive tutorial: Automated cloud application testing
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f89af
+ 536-4aca-47a3-be89-7109cb5ee89b?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progressive Web Apps for beginners
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e9d40
+ 0c5-cb64-4ba2-a949-72258436190f?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Azure Kubernetes Service out of the cloud and into your worl
+ d
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f279e
+ f86-024e-4747-a3b9-a1f357b0d480?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CI/CD for the enterprise with GitHub Actions
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/cd278
+ f6c-9405-464e-9fe3-4d7f53bc18b8?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize MongoDB workloads with Azure Cosmos DB
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7e405
+ 08e-e8bc-4541-bf36-9828230b6e5d?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kusto detective agency Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b8f31
+ 978-65d1-4999-8ab8-d745a912510d?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernizing high volume customer communications platforms
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/83f1f
+ e5b-b4d7-4807-966d-de2b843ddb32?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Native Authentication for Customer-Facing Applications
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/38005
+ b5e-bec6-4237-96e0-313ffe9d9bc7?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The future of edge solutions in manufacturing
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3b72f
+ b71-8cc2-4f7c-b1a9-7dcd0e7ca238?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windows Hybrid Apps - Developing for the cloud-first future
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/29c90
+ 18d-5479-44fe-afac-fe1c05c6df56?source=sessions
+DTSTART:20230523T143000
+DTEND:20230523T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build next gen intelligent retail with Azure OpenAI & Azure Cosmos 
+ DB
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8e5f1
+ b28-175d-4353-b6f1-7521a448ac90?source=sessions
+DTSTART:20230523T144500
+DTEND:20230523T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secure your app using Azure Redis Cache with Azure AD AuthN and Aut
+ hZ
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c52fc
+ 8c3-171c-4b00-9be9-50da8f96a627?source=sessions
+DTSTART:20230523T144500
+DTEND:20230523T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build the next big thing with MongoDB Atlas on Microsoft Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a77c1
+ 6da-a317-40bc-be20-5d2e39f02bdc?source=sessions
+DTSTART:20230523T150000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Synthetic monitoring optimized for developers\, GitOps\, and DevOps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1e0c7
+ 076-4ea3-4768-be02-a2e1eb7943f6?source=sessions
+DTSTART:20230523T150000
+DTEND:20230523T031500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:.NET languages\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d17eb
+ 062-58dc-4b08-a798-21974061e890?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azure Kubernetes Service: Past\, present\, and future\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0d301
+ 50b-e4bf-420b-a664-67d79a88fa03?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build\, Customize\, and Deploy LLMs At-Scale on Azure with NVIDIA N
+ eMo
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ddd2f
+ 9c9-9bde-47da-85f1-8328100cc65b?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database capabilities you need for your next awesome app\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/94372
+ ded-9820-4deb-afcf-0a4be8e0692f?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Developer career tools: Saying NO to improve mental health\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/58c48
+ af9-bf0e-4b87-90d4-b47d6940d95e?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GenAI for Knowledge: transform search of unstructured data with per
+ sonality
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/212ea
+ 181-17fe-49b8-81d6-83ede8933a44?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T034500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GitHub Advanced Security for Azure DevOps: Interactive deep dive\, 
+ Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/18a3e
+ c79-476b-4bd6-b98d-2216e190b187?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Introduction to Azure Arc-enabled Kubernetes
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4c149
+ 4ae-ec18-48db-b7f7-e21889a6da0f?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T043000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet the Microsoft Store client team\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3e4ea
+ 095-fe0d-4b39-97b6-05184954f85e?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The present and future of AI development: leading innovators Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8ea2b
+ 96d-b286-4c34-84d6-5afda96db804?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intune support for .NET MAUI on Android
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f38d6
+ 830-97e3-4d21-8f07-214b682bdaa3?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T043000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Optimizing Azure Cosmos DB: Strategies for cost efficiency and elas
+ ticity
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3a0d9
+ f25-ecf3-48db-aba9-833c481d5a93?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T043000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Azure to improve your organization’s sustainability posture
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/db1e6
+ 353-664c-45ff-9ea7-30ee4ff6e5fa?source=sessions
+DTSTART:20230523T153000
+DTEND:20230523T043000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build and maintain your company Copilot with Azure ML and GPT-4
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/abe8f
+ 7cd-5aa1-4ee6-bb0d-f1aff17ba3c8?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building and scaling cloud-native\, intelligent applications on Azu
+ re
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8e651
+ f72-eb45-4229-9eee-5eb97a4bb293?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Develop in the cloud with Microsoft Dev Box
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/39061
+ c2a-856d-4412-94fa-ffde1e418d6d?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open\, diverse solutions for global AI adoption
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ed8da
+ 978-ac27-4a0d-8974-82f15f429231?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's new in .NET 8 for Web\, frontends\, backends\, and futures?
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/da223
+ f08-abb2-4f38-87de-0856ffa22317?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI for content: How Microsoft Learn is leveraging generative models
+ \, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c0732
+ 0fe-a309-43fd-8af3-25fa3bdb1cfb?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automated compliance testing tools for Microsoft 365 apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7ca64
+ 39b-2b4d-4a41-b5bf-73c67177fb34?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azure Cosmos DB for MongoDB: Choosing the right architecture\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d0f2d
+ 888-a79d-42f9-a062-f9c334daca9f?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBL-Mariner: A container host OS for Azure Kubernetes Service\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e84dd
+ 80a-f3bb-4d3d-978e-ffd811e3bfe1?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How leading AI companies 10x experimentation velocity with Statsig
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c3d2c
+ 385-58db-49c8-9575-299b7b6b7683?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Model data for Azure Cosmos DB for PostgreSQL
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8036f
+ abb-00b1-4fcf-bb61-6f2cc45c4008?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Native apps for Windows on Snapdragon® compute platforms
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b5ff2
+ 82c-6503-460a-8b03-ef652e3ef068?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Optimize your apps for Arm\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4a5f9
+ 357-7e15-4a5f-ac33-3a5bae88684c?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unlocking the Power of Azure Security: Conversations with Experts\,
+  Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6da00
+ f4d-58a8-449e-9f00-cffb5c943bd2?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's new in TypeScript\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7fc31
+ 196-9b3a-4baa-aa2a-c6eabd9a9fe4?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build flexible\, intelligent apps with OSS on Microsoft Azure and G
+ itHub Copilot
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0da2f
+ 92e-993a-46f7-b0f1-4fa39b0e0010?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skill up with Microsoft Power Platform and GitHub
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6d2c8
+ 5fe-7a40-404b-96da-0456169000e8?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supercharge your data retrieval and validation with ChatGPT
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/59eb2
+ e8e-99d4-40b2-9e1e-c9474ef18a70?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The ins and outs of securing your APIs
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7f68d
+ aa8-0d99-4a66-a4e2-968b5c0042f5?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring next-gen translation & language capabilities into your AI app
+ s
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/fe969
+ 07e-7d8d-4692-a9d7-65edb5189da0?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upgrade your .NET projects with Visual Studio
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/67be8
+ 509-042c-4440-8c31-12d2b3f31304?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azure Synapse Data Explorer and Delta Lake Integration
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c22cf
+ 799-21f6-4eac-a059-af75b7c4f2a8?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:External Identities in Microsoft Entra: the future of creative bran
+ d experiences!
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/969ab
+ e22-890e-4441-a478-be54b44f6295?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's talk about running your apps anywhere with Azure Arc
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b8eb6
+ 0bb-7c9f-450e-9581-0e3c4b96b38c?source=sessions
+DTSTART:20230523T163000
+DTEND:20230523T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fine-tune and deploy foundation models with Azure Machine Learning
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/082f4
+ 8f5-c70c-4b24-bc6c-d6f67c45ebf6?source=sessions
+DTSTART:20230523T164500
+DTEND:20230523T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Upgrading from Xamarin to .NET MAUI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4d6bc
+ 6e9-716a-4125-9a03-81853375a9f5?source=sessions
+DTSTART:20230523T164500
+DTEND:20230523T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Control a 3D printed robot with .NET\, Raspberry Pi\, SignalR\, Bla
+ zor and Oculus Quest
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/49f44
+ 963-065c-4439-9196-aab85e13c65a?source=sessions
+DTSTART:20230523T170000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Create a Document Viewer using LEADTOOLS AI-Driven\, Low-Code Contr
+ ols
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2b0cc
+ 4ed-e0b7-4eb4-849e-616c319b9f7c?source=sessions
+DTSTART:20230523T170000
+DTEND:20230523T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accelerate development with Visual Studio and Microsoft Power Platf
+ orm
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a2154
+ a8a-57fe-4717-af9a-bea7ec2b5e94?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-serve app infrastructure using Azure Deployment Environments
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e102b
+ b71-f8ef-4538-9a59-158ec6f442b6?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ship-It safely with GitHub Advanced Security
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d9f50
+ f96-5c71-479a-bb63-a46ff7489a7b?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What’s new in C# 12 and beyond
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7bdbc
+ 522-10ed-4114-a0f1-afd45acbf7ee?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building the supercomputer to unleash AI innovation at cloud scale
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/74655
+ a25-2b5f-41fe-ac01-bddaf4dd87a3?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get full-stack visibility into your Azure environment in minutes
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e0aba
+ 785-98b6-4645-90c4-d6ba41fc7296?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HTTP Load Balancing with NGINXaaS for Azure – Azure Native ISV Se
+ rvice
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/081b9
+ a33-a5b5-456c-8e0d-1707e30fea16?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Customize the command bar in Microsoft Power Apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0040f
+ 3da-4903-44fd-bb5a-283eb9653b27?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize your applications on Azure SQL Managed Instance\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9ac9e
+ 7cd-e615-4a72-afc0-ac01f957c91e?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenFL (Federated Learning) Building better AI models with private 
+ data
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/be9e0
+ 990-58f4-4924-b44b-2a29e09eb36a?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T061500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take your .NET apps to the cloud with Microsoft Azure\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1762d
+ 05a-a8de-42c3-8097-218a4a30e69f?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Old New Thing with Raymond Chen\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5b177
+ ba5-b7f8-4346-a61e-974a63aaa63e?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Engineering reliable AI systems at scale
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d9af0
+ a09-9967-47d2-b77d-7f283b149758?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build foundation models using Azure Container for PyTorch and Azure
+  ML
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/60011
+ 754-eaff-4208-b974-79c8dc08d6d2?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deploy a Quarkus application to Azure Container Apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4cd4a
+ 84d-014c-4f27-89f5-9a3252f85009?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From web services to Teams apps using Teams Toolkit v5.0
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e5152
+ be8-46ae-4b51-8c18-6b01416cb261?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize with .NET on Azure App Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/51293
+ 2f1-141a-4bc9-a6d4-7723959f6a49?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatic scaling for Azure App Service web apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/84f43
+ 1f8-cfa8-421e-90cb-23c20b684c93?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five tips to increase your productivity in Visual Studio
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8246f
+ 50f-0269-46aa-b6bc-09d5e5e10ace?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build IoT solutions with MQTT in Azure Event Grid
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7b3a0
+ fb2-45f4-43e0-ae43-32e33fee6ca3?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's next for Azure landing zones?
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/59a26
+ c47-912a-4a68-9c80-73d0e6255a43?source=sessions
+DTSTART:20230523T174500
+DTEND:20230523T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Intelligent Microservices with Azure Container Apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/94832
+ 98a-93f9-4bbc-a9ea-1bfe986c6e4b?source=sessions
+DTSTART:20230523T180000
+DTEND:20230523T061500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securely test and debug your web apps and webhooks with Dev Tunnels
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/23cd7
+ 5b9-a256-446c-aace-4dd2405be944?source=sessions
+DTSTART:20230523T180000
+DTEND:20230523T061500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adobe + Microsoft: Modern Productivity
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7d3c9
+ 5a0-636b-4ea5-94e2-3245096743fb?source=sessions
+DTSTART:20230523T181500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Security Device does Automation?
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a20fc
+ e23-bb1a-495c-8e2a-769178820563?source=sessions
+DTSTART:20230523T181500
+DTEND:20230523T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMD + Azure: Outstanding performance and the latest security featur
+ es
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/817a8
+ 741-2366-4d4d-9939-2289943cbc1f?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analytics in the Age of AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/852cc
+ f38-b07d-4ddc-a9fe-2e57bdaeb613?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building and using AI models responsibly
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/70c6d
+ 334-0e4a-4235-ad57-92004b06d7e7?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Focus on code\, not infra with Azure Functions\, Azure Spring Apps\
+ , Dapr
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/90dfa
+ 6e3-9f6e-4f8d-8d3c-814b4311cc70?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application reliability with Azure Load Testing and Chaos Studio\, 
+ Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bb7fd
+ d0b-e63f-4003-b429-09fc5e498cda?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Azure OpenAI + Cognitive Search: vectors\, generative apps\, plugin
+ s Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4ea50
+ ba5-1410-4c45-9256-ba27ec10a443?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build and Maintain your Company Copilot with Azure ML and GPT-4\, Q
+ &A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/aa233
+ dcf-c3fe-4eda-9840-f1590f8ce228?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edge to Cloud with InfluxDB
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/098d6
+ 828-1dfb-4fa9-b6f2-49ac7511dc16?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How we integrated WinUI 3 into File Explorer\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6d346
+ 7f6-a6a9-42b9-a404-c9ed507b6066?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: GitHub administration for GitHub Advanced Security
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/70e5d
+ 2d6-8983-4722-a688-239979315d4b?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Dev Box and Azure Deployment Environments\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6e729
+ 039-a509-471f-9ad9-c90ac6b25b19?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern workforce document automation solutions by Adobe & Microsoft
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/03e2f
+ c30-3a78-4365-96b9-bb05c506dc1f?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T073000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unblock Your Cloud Transformation with Anjuna Computing Platform
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/99ac9
+ f0b-70a2-47b2-90fa-2a91ac501234?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build a chat bot using Azure OpenAI\, Azure Cosmos DB and Blazor Se
+ rver
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c332d
+ f94-9f89-41b2-ae19-4562d1d93864?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build an end-to-end customer engagement app with Azure Communicatio
+ n
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f20a6
+ 7ed-30fa-49c0-965a-11b5daaabb4b?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Democratize your data estate with the latest data warehouse
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b89d8
+ d4c-a11c-4912-b705-b2abff11c864?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevSecOps: How to simplify and integrate security in the SDLC
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1f20b
+ efe-e8b8-4250-841a-b76a1447a7d4?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creating custom experiences with Microsoft Mesh
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/80ab0
+ e72-53dd-402f-af9a-112b5d003e52?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How we did it: ChatGPT for the enterprise with Aisera
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c0864
+ 5c9-2867-4a2f-8c30-087cba918adc?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enable more sensitive workloads on Azure with confidential VMs and 
+ containers
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8c294
+ 91e-70b8-434a-b3d4-dcb2f1ebbd40?source=sessions
+DTSTART:20230523T190000
+DTEND:20230523T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From idea to app in 15 minutes using Teams Toolkit and GitHub Copil
+ ot
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/17e03
+ 91f-9541-4141-a698-99b85bafa540?source=sessions
+DTSTART:20230523T191500
+DTEND:20230523T073000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How we did it: Using AI to analyze customer experience with Commerc
+ e.AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4ac9c
+ d70-2ebc-4e44-ac86-163495b85cfd?source=sessions
+DTSTART:20230523T191500
+DTEND:20230523T073000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build faster with GitHub Copilot and Codespaces
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3b24e
+ 238-e569-4ebb-9ea7-bcdc7ed01e19?source=sessions
+DTSTART:20230523T193000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streamlining knowledge sources and keeping vector databases fresh
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/afe3c
+ c6c-a203-4e94-8ea8-a6bbffec0847?source=sessions
+DTSTART:20230523T193000
+DTEND:20230523T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build apps with state-of-the-art computer vision
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6192a
+ 166-2742-42c1-9d12-adbb3daa30bb?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building AI solutions with Semantic Kernel
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/31e11
+ 443-70d3-4020-8c8c-0a654bccd233?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrating Azure AI and Azure Kubernetes Service to build intellig
+ ent apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/84b5c
+ 64f-6cb7-48b1-8f18-25f63405b965?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pragmatic techniques to get the most out of GitHub Copilot
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7a726
+ a0f-5433-46a4-a91d-7d427ffb5b30?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accelerate innovation with a cloud-first go-to-market strategy
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f9224
+ 7d4-5582-463d-88a0-cbd7b8652fec?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASP.NET Core and Blazor futures\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4cfe3
+ 74e-a9a0-4a82-a9b6-890bd90df931?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best practices for running an API stewardship program\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/adc2f
+ 229-e1b7-4e72-99dc-5c8c6c0139ee?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enabling Successful Confidential Computing with AMD + Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/44386
+ acf-6e7e-4be3-ae6e-2700b7d3adc8?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T084500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introducing Fluent 2: Coherent design principles\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/61ab9
+ 7de-c683-4302-938f-f110548ccfa3?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Get started with AI on Microsoft Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2daf4
+ 4bd-4c37-4490-a2cf-b3cb5f9542c0?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize your Win32 application for security and privacy\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d2ad7
+ 043-223f-4bbe-81e7-e83abc6fa631?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playwright\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9ddbe
+ 1f1-41fe-4147-b0ad-1ff6f659a8b5?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Responsible AI: How to build models to check for fairness\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/02845
+ 227-460a-463d-91f2-ebe50cf9890a?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slow Starts to Stellar Results: How AI Can Improve Team Collaborati
+ on
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6b02e
+ 56d-9107-484d-ad66-5bd9d460870d?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Responsibility and safety when building AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f34ae
+ 4df-ca2f-476b-b251-29260110f32d?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analytics in the Microsoft Intelligent Data Platform DREAM lab
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e761c
+ b4f-eaca-4dfb-b0e4-697671eca7fa?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From web services to Teams apps using Teams Toolkit v5.0
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/931a8
+ 311-5403-4462-8270-c21b2a7cd23d?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to use OpenAI models (e.g. ChatGPT) using Azure OpenAI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a0121
+ 48d-596a-4a21-8a5b-f15a17a91b8a?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progressive Web Apps for beginners
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/71d5a
+ c39-6162-49b0-9076-5a88d5136572?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Customize your Windows Terminal
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3e87b
+ 049-d3c5-4d92-b601-53d868067e79?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introducing ChatGPT on Azure OpenAI Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/abb97
+ 429-e4e6-4269-bb47-77b50943d8d9?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exploring the future of AI in SQL and Spark scenarios
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/38382
+ 008-d138-4604-804b-7faad85f653a?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrate your data with latest Data warehouse and Data Factory cap
+ abilities
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bded6
+ aec-aa6d-4a8d-9647-6665d1abe411?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real-time event streaming
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1cbe2
+ f39-2d4e-4eae-8c46-ca91c7d41edd?source=sessions
+DTSTART:20230523T201500
+DTEND:20230523T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ten little ways you didn't know Windows can make devs more producti
+ ve
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/67068
+ 324-d15b-47f2-bfb3-2e67525d93bd?source=sessions
+DTSTART:20230523T203000
+DTEND:20230523T084500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleash the power of ChatGPT and Cognitive Search
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5e265
+ 3b6-5e46-4a6a-b9a1-48b97744eb82?source=sessions
+DTSTART:20230523T203000
+DTEND:20230523T084500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GenAI for Knowledge: transform search of unstructured data with per
+ sonality
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4591b
+ 469-a66a-44c3-b0e1-dbb28b2fdc9a?source=sessions
+DTSTART:20230523T204500
+DTEND:20230523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaping the future of work with AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8aab3
+ 6d1-d27d-46dd-81ec-eb3f49cfee6a?source=sessions
+DTSTART:20230524T120000
+DTEND:20230524T013000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep dive into .NET performance and native AOT
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/28588
+ f70-fb54-447a-b778-7ef02c8ffdf8?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliver AI-powered experiences across cloud and edge\, with Windows
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0ea15
+ 726-1273-4a7c-a71a-efc635172a3b?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Developer joy with Scott Hanselman and friends
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7ed9b
+ b72-b4f4-4490-9b26-911d1ac263d1?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harness the power of AI: Extend Copilot and beyond
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1bf0b
+ 282-fd10-49fe-9851-24cbf3ab15cf?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-expression and pronouns in Microsoft 365
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5562d
+ 673-2d68-466d-a0c8-dbe16806e739?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building an AI Copilot with Semantic Kernel in the GPT-4 era\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d7973
+ 468-7060-41d8-91a5-1b3a94fa69b1?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud-native and Linux on Microsoft Azure\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4c586
+ f76-ad6e-444f-881b-e6d36487de57?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing and implementing automation and conversational AI\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c87b8
+ 125-30c7-462b-a5fd-f0a04a659419?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harnessing generative AI with NVIDIA AI and Microsoft Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/37309
+ 6b6-ba5a-4efc-89da-d44428a84273?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to optimize your vector databases while keeping your data curre
+ nt
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2e47e
+ 6b8-d39a-4de8-9c52-ad82365753a8?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T021500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Java experts at Microsoft\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3b23a
+ 954-5456-457a-a9e7-abc1e8e49edd?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Enterprise 5G technologies for Azure Cloud Services
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/cc41e
+ b4d-31a8-4dd8-8d6d-2cea646c2e54?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Managing world-class DevOps with Microsoft Teams\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7a5f5
+ a3b-56a2-41db-82f6-dbc460050643?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Synapse data warehouse\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/21847
+ 83a-5cef-4dc2-818b-01953de121df?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrating Azure OpenAI Service into your intelligent apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4fa46
+ b40-5a7e-4a2e-8641-e9665b7da757?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build a chat bot using ChatGPT\, Azure Cosmos DB\, and Blazor
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7d079
+ d0a-4b94-407e-a93a-5c8fb04521b2?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building your low-code hyperscale backend on Microsoft Dataverse
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1e7ac
+ b36-9358-497d-9658-28cd62623181?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interactive tutorial: Automated cloud application testing
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7c86f
+ eb0-55ab-44a2-99f8-719baf38abf2?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Azure Kubernetes Service out of the cloud and into your worl
+ d
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/90e9e
+ b34-f7a1-482c-bc99-3faa90026506?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angular and ReactJS for mobile and desktop apps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c6757
+ bc0-5a28-4597-a6ca-9d6e91ab0bbf?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T021500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transform your apps with vision AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/02d55
+ 118-9ebb-45b3-9869-f24346379e81?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T021500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real-time analytics with Azure Synapse Data Explorer
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9c5af
+ 76c-17cb-4d02-8ae9-f1b338ce9049?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The vision of the future with Microsoft Authentication Library (MSA
+ L) as an authentication broker
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/22e70
+ bd3-ffc0-492e-847c-4395aa63af79?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troubleshooting apps running on Kubernetes
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ac282
+ ebd-0838-4d0e-9626-2aeeec24bdfb?source=sessions
+DTSTART:20230524T140000
+DTEND:20230524T030000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full stack web in .NET 8 with Blazor
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7fc9a
+ 4e6-b9ca-42ef-b523-34335603e42c?source=sessions
+DTSTART:20230524T141500
+DTEND:20230524T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Use Azure Cosmos DB\, Azure Logic Apps\, and AI to store and analyz
+ e images
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/998c7
+ 702-5d0d-4bc8-8c24-08bfea6e9553?source=sessions
+DTSTART:20230524T141500
+DTEND:20230524T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boost Dev Time: Blazor Hybrid App + .NET MAUI = 2X Faster Results!
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/68ebe
+ 075-016d-4d8a-ad9c-08ceec7f9b97?source=sessions
+DTSTART:20230524T143000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slow Starts to Stellar Results: How AI Can Improve Team Collaborati
+ on
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/72d45
+ 4d0-a1d1-432a-ad85-7bc036332ed3?source=sessions
+DTSTART:20230524T143000
+DTEND:20230524T024500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build The Best With Active Tests: Shift Left with API Security
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/659cc
+ 34f-a2af-4371-9524-b9a8a8ba16bc?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T033000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building Adaptive Card-based Loop components for Microsoft 365
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0d175
+ daf-5ccf-43dd-8ce9-8710245a8768?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Costs and benefits of .NET Application Migration to the cloud\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e26fc
+ c5a-dc48-4467-9042-a83854456e6d?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Distributed NoSQL vs. D-SQL: What to use for your cloud-native app 
+ Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c2846
+ 1cf-52f8-4db3-88c0-2cc13610d6a0?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Introduction to Azure OpenAI Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/be53c
+ fb2-03dd-422a-b681-a45e5e757e22?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next-Level DevSecOps: Secure Supply Chain Consumption Framework\, Q
+ &A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/158b8
+ 8dd-68d5-4ac0-aa25-a89dfccb312e?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NVIDIA AI Enterprise Registry for AzureML deployments of AI Workflo
+ ws
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/733cb
+ 7af-dd1e-42c5-87ff-884cf7303bf3?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T034500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The future of AI and generative code\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5a86e
+ 856-5124-4055-a2f2-7d5df62a07cb?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The future of the cloud platform
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8d95e
+ c32-05e5-4c07-84c9-260148a7578d?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T040000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do We Need Rust Language Support for Azure?
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1c1f7
+ f38-17d2-4075-8d33-d0acb5bbdaa3?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simplify Microsoft Entra Workload Identities with DevSecOps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2c4ac
+ d04-a768-425a-b706-be1b109d1d31?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The future of digital twin solutions in manufacturing
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6dfeb
+ a57-7413-41ed-9ec3-e42177f3f855?source=sessions
+DTSTART:20230524T151500
+DTEND:20230524T041500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build scalable\, cloud-native apps with Kubernetes and Azure Cosmos
+  DB
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6bea8
+ 06c-624c-44d3-9e53-513b22eff3e4?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliver apps from code to cloud with Azure Kubernetes Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/64b2f
+ 97f-bde6-4d86-aa26-587c60863886?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New developer experiences in Windows
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5017d
+ 756-1ed1-468c-bd43-1ac98079f71e?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The future of app development with the Microsoft Power Platform
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d6f18
+ 526-1083-478e-a493-2d8d578c7c57?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vector Search Isn’t Enough
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/03898
+ 4b3-7c5d-4cc6-b24e-5d9f62bc2f0e?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boosting community and content safety with Azure AI\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8f36c
+ 79c-7a9a-4c2e-a393-6651cfe0cd1e?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build and ship global full stack serverless web apps\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c8bdc
+ 668-8bc5-4919-8ee6-0f1551f214ec?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Choosing the right Microsoft Azure destination for your Java applic
+ ation\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d911b
+ 512-7ffb-44f4-8823-50442c803b54?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creator tech tips\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/d1e70
+ d11-b907-4526-923c-e9597bea269c?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Publish a web app to Microsoft Azure with Visual Studio
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/afd48
+ c1f-f229-4dba-a5ec-665d98199011?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metaverse Meets Generative AI: Opportunities & Challenges Ahead
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5f28e
+ 727-f447-48af-b853-dc6d96a7b635?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operationalization of AI/ML models and use cases for ChatGPT\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/26815
+ f90-bd7c-407d-b5e3-b453d72c3fd9?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python web apps on Microsoft Azure\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/15974
+ ac4-9aae-4bb2-9430-1bf42fb47d2d?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simplify Your Data Stack: Automate\, Orchestrate and Integrate Data
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/35c84
+ 54c-859d-41ef-b4ce-1fd27bdcfa19?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's new in .NET Multi-platform App UI (MAUI)\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2215f
+ 254-3fc3-4529-aa2f-3578b3bfdac9?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Horizons: Exploring the Future with Eric Boyd & John Montgomery
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/dcbbb
+ 0fe-a0f4-4c51-bd74-b3976d0f487c?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevSecOps: How to simplify and integrate security in the SDLC
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5ad27
+ c23-0b67-4bfe-8275-f1630bf44597?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get started with lakehouses
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/05a73
+ 71d-c393-4908-ab33-db0d2e2bcf43?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize with .NET on Azure App Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/538c5
+ 0fa-c7c7-40ae-9e46-cc7ac12393db?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supercharge your data retrieval and validation with ChatGPT
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e5df4
+ 87a-cf28-4855-a3ef-800083439fef?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build and deploy an intelligent app with AKS and OSS
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1e1db
+ 93d-11bb-4af1-bb58-52e00e590750?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Organizational analytics made easy with Microsoft Graph Data Connec
+ t
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/815d6
+ be0-2038-4833-9b1c-57bccf960157?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T044500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:360 Degrees of Feedback: Enhancing the Microsoft 365 Developer Prog
+ ram
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/73582
+ 587-5cac-4ca7-a3a1-a67378779cd8?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Infused Omnichannel Communications
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0ffe7
+ 5f6-8de9-4f82-ae19-b0a1239b5664?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New PubSub capabilities in Azure Event Grid
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/56a8d
+ b02-4556-472a-8dd1-57e18f70d65d?source=sessions
+DTSTART:20230524T163000
+DTEND:20230524T053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to integrate any solution into Viva Connections
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b7b05
+ 1cf-46a1-4f02-943a-42c26885a21a?source=sessions
+DTSTART:20230524T164500
+DTEND:20230524T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test automation with Playwright
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3e996
+ b50-e403-4998-87c4-417ed4ce3431?source=sessions
+DTSTART:20230524T164500
+DTEND:20230524T050000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edge to Cloud with InfluxDB
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c4be9
+ d33-26a7-48e5-b0ce-25d1139c74b0?source=sessions
+DTSTART:20230524T170000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get full-stack visibility into your Azure environment in minutes
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3a439
+ 744-5958-497f-a3e3-6d9efb593a52?source=sessions
+DTSTART:20230524T170000
+DTEND:20230524T051500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How GitHub builds GitHub with GitHub
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e3492
+ a33-2601-4378-9ee8-a78d40b32df6?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Azure innovations with Mark Russinovich
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/836e9
+ 3ad-72b1-49d4-9430-d6277051aba7?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kickstart your .NET modernization journey with the RWA pattern
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c4fe3
+ 57e-2bb2-4201-a956-ca35c3497e06?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to get your machine to a ready-to-code state
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/936f7
+ 62a-1236-41d1-9996-9322a45cad71?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical deep dive into machine learning techniques and MLOps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6291f
+ 8bb-78b4-447e-bdca-c74143edf850?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boost Dev Time: Blazor Hybrid App + .NET MAUI = 2X Faster Results!
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/efb32
+ 63f-bcbc-41fe-ae28-66fba9d89b9c?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Modern Applications at Lightning Speed with Orkes
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/85696
+ a5e-f635-4aba-8b77-12863a18f018?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do more on Azure SQL Database Hyperscale\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ed489
+ 151-dfa7-4328-a807-f89b31be6664?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Build a web app with Blazor
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bac92
+ 828-29c3-4043-b886-14b181d1ec11?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Power Platform governance and Application Lifecycle Manag
+ ement\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/3c775
+ 8d8-f42c-4506-85c7-0ee19bad57f4?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securing organizations\, pipelines\, and integrations in Azure DevO
+ ps\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/64960
+ 3cd-c704-4222-bbcf-10c14b739bf9?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Separating AI hype from fact
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/484e8
+ 4d8-7051-406a-813a-19f70af798f5?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build a serverless web application end-to-end on Microsoft Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f249c
+ eaa-aa9d-473a-891d-d0dca6cb4191?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build an intelligent app for Teams with the new AI library and Team
+ s Toolkit
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/48a25
+ 574-4a14-4e9b-9cc1-f116adba7c33?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Democratize your data estate with the latest data warehouse
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/aab57
+ b06-0864-451c-95dd-c8132bb01513?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experience Hybrid Loop to build AI experiences on diverse hardware
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/359d7
+ 364-2c4f-4ee3-a150-cd7f39783c27?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build web apps and connect to data faster using Microsoft Power Pag
+ es
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/351c3
+ 6fd-cb2c-45eb-927d-66fe0c3c9515?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effortlessly troubleshoot your Azure apps with AI-powered recommend
+ ations
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/518e8
+ 4b7-9c9a-4236-90e2-3b356f5f2f00?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T060000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep dive into monitoring your cloud-native environment with Azure 
+ Monitor
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/620d9
+ d56-87fa-4bba-960b-f64e633ce3ba?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Help us elevate your development experience on Windows
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4e5dc
+ 847-48fa-47ac-ad22-6c72e53cdf38?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Q&A with the team behind Microsoft's new Linux Distro
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/37900
+ 5cd-6a55-4511-8d43-c5ceaad34e60?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technology Vendor Integrations for B2C and B2B applications - Prese
+ nt and Future with Microsoft Entra External ID
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1cb98
+ 8cd-5065-4783-81d8-73a0b7a57db5?source=sessions
+DTSTART:20230524T174500
+DTEND:20230524T064500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New confidential container offerings in Microsoft Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/81d4e
+ 6ea-3483-433e-a206-0c76a83cebb0?source=sessions
+DTSTART:20230524T180000
+DTEND:20230524T061500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power Fx and AI in Microsoft Dataverse
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9b91c
+ 2e5-ed03-4897-b460-1d4333d90629?source=sessions
+DTSTART:20230524T180000
+DTEND:20230524T061500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How does OpenFL Boost Your Federated Learning Project
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/fdeec
+ 2c0-813a-45e4-9ec8-90db0324d0fd?source=sessions
+DTSTART:20230524T181500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simplify Your Data Stack: Automate\, Orchestrate and Integrate Data
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4bd42
+ 08b-b7f5-462d-8b61-ac6ac1439cce?source=sessions
+DTSTART:20230524T181500
+DTEND:20230524T063000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI innovation in the Microsoft Power Platform
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f335d
+ 3e7-5f5c-45c1-922e-72b86d785297?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beyond 300M users: How to bring your Teams app to Outlook and Micro
+ soft 365
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/24df6
+ 246-0f64-4e44-999c-397834c62103?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From paper pushers to automation: Automate and protect your documen
+ ts
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c9576
+ 0e1-e0c5-49a4-89cf-18d36a906931?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernizing your applications with containers and serverless​
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ab8ea
+ 16d-ddc4-4a94-b751-39904a8213c4?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seamlessly integrate security throughout your code to cloud workflo
+ w
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ec7b2
+ 135-c777-4432-94b9-9e1ca918f3cb?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI made easier: How the ONNX Runtime and Olive toolchain will help 
+ you\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/47fe4
+ 14f-97b8-4b71-ae9e-be9602713667?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All about data analytics\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1b03f
+ 355-d931-4a39-9b1c-dddfe643db36?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best practices on managing GPUs in Azure with Run:ai
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bd330
+ 577-333a-4c86-b59f-25c742968eac?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building computer vision applications\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1068c
+ a99-652d-4504-8235-cb7247891f75?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Development with accessibility in mind\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/8bc45
+ 7a3-6229-4873-b000-7fb349441671?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How good team culture is making Windows better for developers\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9fda2
+ e1d-eff2-47fa-a0b9-c19160d20c3f?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Secure is your Application and Infrastructure Code?
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5352f
+ e3b-c298-4ad3-9655-6e113c519fab?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kickstart your modernization journey with the reliable web app patt
+ ern\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7d64f
+ e67-44f9-4a57-ad0c-7ad256d5abc7?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Get started with custom connectors in Power Automate
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/73eff
+ f57-deb7-499f-bef8-544deac10ae1?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Power Platform and code-first development\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/68546
+ af1-a932-4837-833f-c1e72dfdd0b5?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build foundation models using Azure Container for PyTorch and Azure
+  ML
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/02e6f
+ c1a-be20-4a7f-a905-35b54f310f40?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experience Hybrid Loop to build AI experiences on diverse hardware
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b4d8d
+ 65c-8b9f-4110-9c0e-99b61e056d4b?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to build a modern data stack in an hour
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b1e96
+ 0ac-e00b-486b-af92-a75a952e192c?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skill up with Microsoft Power Platform and GitHub
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bebf7
+ ffc-8ed8-4df5-99ad-56e450ca1cc4?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enlighten your Windows apps with user presence and engagement signa
+ ls
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/70742
+ 861-1033-424b-87d3-3f5f439bdd28?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prioritize your most critical security findings with Microsoft Defe
+ nder for DevOps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f62e2
+ 2f4-8140-4122-91c6-c11e2f44bec4?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T071500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything you want us to know about Azure AI services
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7ec71
+ a41-939e-4967-8a8c-9bb7276a5335?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes usage and management outside of Azure
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/eda3e
+ 1ec-d206-4bf3-b6cc-89c221b984d2?source=sessions
+DTSTART:20230524T190000
+DTEND:20230524T080000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get your app ready to stream with MSIX
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1fe83
+ d55-b379-4df9-aeae-18b281240175?source=sessions
+DTSTART:20230524T191500
+DTEND:20230524T073000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implementing GitHub Advanced Security for Azure DevOps
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/10907
+ cb6-f838-481f-9256-37d3f43c1f5b?source=sessions
+DTSTART:20230524T191500
+DTEND:20230524T073000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands on Azure Chaos Studio
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e854f
+ 31b-8853-48cc-9e5e-0b09dd45e4eb?source=sessions
+DTSTART:20230524T193000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hybrid AI demo
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1ec99
+ c2c-c8ee-4181-a8f4-3a04ce62a28b?source=sessions
+DTSTART:20230524T193000
+DTEND:20230524T074500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced developer tips and tricks in Visual Studio
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5ee14
+ 3d2-5336-4e2f-b345-7daf606e7629?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full stack scale with the Microsoft Power Platform
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/7dbe8
+ e74-8768-4355-9a34-52a76fcc0178?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to build the best Arm apps for Windows
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/4c00a
+ fb9-e345-489c-bf7f-bfd6ecfde455?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualcomm® AI Stack for developers and extension to Hybrid AI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/1fd4f
+ f94-0b55-4c9c-863c-cd9b6c850304?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automated cloud application testing with Microsoft Azure and Playwr
+ ight\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bc249
+ 91f-f037-4bdf-9e60-e34987b07c8b?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building translation & language skills in your application\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f91ff
+ ed0-2b49-4a07-ba73-63e5dab2d16b?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data-driven app and web development with Microsoft Power Platform\,
+  Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9e7e2
+ 90b-0118-4a0d-9faa-2008443c8e08?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn in depth: What’s new with improved performance for all deve
+ lopers on Windows
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/55327
+ bc8-6d99-40c5-8923-ab78c3d24c06?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn Live: Migrate SQL workloads to Azure Managed Instances
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/9e417
+ 5d4-7549-4bff-b48d-864e9f5441da?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernizing with containers and serverless\, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c4f97
+ c43-9546-4fa4-a27d-f3ae598fafeb?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Azure Monitor capabilities monitoring cloud-native environments
+ \, Q&A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/b3956
+ 234-2b67-49d2-8af6-4b24cf3ebe84?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical deep dive into machine learning techniques and MLOps\, Q&
+ A
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/bfd9d
+ 8a7-962b-45f2-96f7-4d2dea15d195?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Cyber Data to Financially Quantify Cyber Risk Decisions
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2056b
+ edc-79a9-41bf-b476-a5325b014798?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analytics in the Microsoft Intelligent Data Platform DREAM lab
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/180c8
+ 75c-3821-4d23-96a9-9d3275768e67?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build an intelligent app for Teams with the new AI library and Team
+ s Toolkit
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/feb54
+ 7f4-5787-4005-8fb2-f909c089ac46?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build flexible\, intelligent apps with OSS on Microsoft Azure and G
+ itHub Copilot
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/56135
+ bef-5435-4680-9bd7-224243dac195?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn how to use OpenAI models (e.g. ChatGPT) using Azure OpenAI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/58504
+ 3ee-3d94-4422-87e7-6625fb3acd34?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catalog in Microsoft Power Platform for pro developers
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/97873
+ 4ba-b8df-461a-9745-89e9deffaa13?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Further\, faster with Azure Functions and Azure SQL integration
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/6ffba
+ 46b-2059-4447-a4cb-9b0fd8d5d44c?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T083000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything you want us to know about Azure Cognitive Search
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/aa9a8
+ 57e-9e19-4a6b-a144-d73019f72ef4?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Synapse Data Engineering\, Data Science & OpenAI Roundtable
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5b6b2
+ f31-3022-42e4-8e30-ca25d885fb4c?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's new in Container Networking
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/0c367
+ 1a9-ed01-4c46-9947-c060c1273356?source=sessions
+DTSTART:20230524T201500
+DTEND:20230524T091500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codespaces to Azure in minutes with the Azure Developer CLI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/f7157
+ 1ba-8dcc-4707-bc9f-f0c66b388bec?source=sessions
+DTSTART:20230524T203000
+DTEND:20230524T084500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protect your data from tampering with ledger on Azure SQL
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/5dd06
+ b6d-afcc-4954-b51a-377246fb24ac?source=sessions
+DTSTART:20230524T203000
+DTEND:20230524T084500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harness the Power of AMD's Hardware Acceleration (FPGA) on Azure NP
+  Series
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a6200
+ eb9-5ed7-4b9c-b8b3-8f7316582ad1?source=sessions
+DTSTART:20230524T204500
+DTEND:20230524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build secure applications with External Identities in Microsoft Ent
+ ra
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/c24dd
+ b1d-14b7-4b95-b9c4-aef097793702?source=sessions
+DTSTART:20230525T123000
+DTEND:20230525T011500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Develop from anywhere with Visual Studio Code
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/2e207
+ 744-0768-404a-aa91-daa71a73dd38?source=sessions
+DTSTART:20230525T123000
+DTEND:20230525T011500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Increase developer velocity with Azure SQL Database\, from data to 
+ API
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/a6bf2
+ 750-7af3-4e72-ba5c-6c68554f4311?source=sessions
+DTSTART:20230525T123000
+DTEND:20230525T011500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transform Teams apps into multiplayer with Live Share
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/67d4a
+ 607-f4a1-460c-93d7-c80d94e965c8?source=sessions
+DTSTART:20230525T123000
+DTEND:20230525T011500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All things client and mobile app development with .NET MAUI
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/52f77
+ 215-c8fa-49eb-844b-46ad4b006987?source=sessions
+DTSTART:20230525T134500
+DTEND:20230525T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build end-to-end AI solutions using new Azure AI products and featu
+ res
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/ca52a
+ 708-0662-40cf-9dd0-0259003b2414?source=sessions
+DTSTART:20230525T134500
+DTEND:20230525T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Expanding your reach with Windows: How developers can win new users
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/dfd9a
+ 6be-4282-46d5-a10a-f86d85eab4a4?source=sessions
+DTSTART:20230525T134500
+DTEND:20230525T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modernize .NET and Java web apps in Azure App Service
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/58f92
+ fab-3298-444d-b215-6b93219cd5d7?source=sessions
+DTSTART:20230525T134500
+DTEND:20230525T023000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott and Mark Learn to Code
+DESCRIPTION:https://build.microsoft.com/en-US/sessions/en-US/sessions/e9568
+ a77-7cf7-451e-a14b-a347313b2494?source=sessions
+DTSTART:20230525T150000
+DTEND:20230525T040000
+END:VEVENT
+END:VCALENDAR
